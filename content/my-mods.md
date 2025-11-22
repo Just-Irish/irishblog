@@ -30,7 +30,9 @@ My latest submarine design using all that I have learned from my previous subs.
 [View on Steam Workshop](https://steamcommunity.com/sharedfiles/filedetails/?id=3284482424)
 
 ### The Hermadin
-[![The Hermadin](/images/mods/hermadin-thumb.jpg)](/images/mods/hermadin-thumb.jpg)
+<a href="/images/mods/hermadin-thumb.jpg">
+  <img src="/images/mods/hermadin-thumb.jpg" alt="The Hermadin" width="300">
+</a>
 
 A vessel I started, forgot about, revisited and finished as quick as possible just for the sake of having it be completed. It's still advanced compared to my other subs, just might have a lot of mistakes.
 
