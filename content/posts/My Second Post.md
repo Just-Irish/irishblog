@@ -1,6 +1,6 @@
 ---
 Title: The Second of Posts
-Date: Sometime
+Date: 2025-11-22
 ---
 ![alt text](starsector.png)
 
