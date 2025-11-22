@@ -10,88 +10,122 @@ Here are a few of the mods and projects I've created or contributed to. Really t
 
 ## Vintage Story Mods
 
-[Automated Server Messages](https://mods.vintagestory.at/automatedservermessages)
+<div class="mod-grid">
+  <div class="mod-card">
+    <h4>Automated Server Messages</h4>
+    <p>I had a need to have messages trigger to inform players if a server restart was imminent. None of the code is mine as Claude and ChatGPT created it all, I merely had the idea.</p>
+    <div class="mod-links">
+      <a href="https://mods.vintagestory.at/automatedservermessages" target="_blank">View on Mod Portal</a>
+      <a href="https://github.com/Just-Irish/Automated-Server-Messages" target="_blank">View on GitHub</a>
+    </div>
+  </div>
+</div>
 
-I had a need to have messages trigger to inform players if a server restart was imminent. None of the code is mine as Claude and ChatGPT created it all, I merely had the idea.
-
-[View on GitHub](https://github.com/Just-Irish/Automated-Server-Messages)
+---
 
 ## Barotrauma
 
-### The Mantle
-<!-- This is HTML code -->
-<a href="/images/mods/mantle-thumb.jpg">
-  <img src="/images/mods/mantle-thumb.jpg" alt="The Mantle" width="300">
-</a>
+<!-- My submarine designs for Barotrauma -->
 
-My latest submarine design using all that I have learned from my previous subs.
-[View on Steam Workshop](https://steamcommunity.com/sharedfiles/filedetails/?id=3284482424)
+<div class="mod-grid">
+  <div class="mod-card">
+    <a href="/images/mods/mantle-thumb.jpg">
+      <img src="/images/mods/mantle-thumb.jpg" alt="The Mantle">
+    </a>
+    <h4>The Mantle</h4>
+    <p>My latest submarine design using all that I have learned from my previous subs.</p>
+    <div class="mod-links">
+      <a href="https://steamcommunity.com/sharedfiles/filedetails/?id=3284482424" target="_blank">View on Steam Workshop</a>
+    </div>
+  </div>
 
-### The Hermadin
-<!-- This is HTML code -->
-<a href="/images/mods/hermadin-thumb.jpg">
-  <img src="/images/mods/hermadin-thumb.jpg" alt="The Hermadin" width="300">
-</a>
+  <div class="mod-card">
+    <a href="/images/mods/hermadin-thumb.jpg">
+      <img src="/images/mods/hermadin-thumb.jpg" alt="The Hermadin">
+    </a>
+    <h4>The Hermadin</h4>
+    <p>A vessel I started, forgot about, revisited and finished as quick as possible just for the sake of having it be completed. It's still advanced compared to my other subs, just might have a lot of mistakes.</p>
+    <div class="mod-links">
+      <a href="https://steamcommunity.com/sharedfiles/filedetails/?id=3273308944" target="_blank">View on Steam Workshop</a>
+    </div>
+  </div>
 
-A vessel I started, forgot about, revisited and finished as quick as possible just for the sake of having it be completed. It's still advanced compared to my other subs, just might have a lot of mistakes.
-[View on Steam Workshop](https://steamcommunity.com/sharedfiles/filedetails/?id=3273308944)
+  <div class="mod-card">
+    <a href="/images/mods/carpo-b-thumb.jpg">
+      <img src="/images/mods/carpo-b-thumb.jpg" alt="Carpo Mk-3B">
+    </a>
+    <h4>Carpo Mk-3B</h4>
+    <p>Variant B of my updated and improved Carpo-series design.</p>
+    <div class="mod-links">
+      <a href="https://steamcommunity.com/sharedfiles/filedetails/?id=2949614191" target="_blank">View on Steam Workshop</a>
+    </div>
+  </div>
 
-### Carpo Mk-3B
-<!-- This is HTML code -->
-<a href="/images/mods/carpo-b-thumb.jpg">
-  <img src="/images/mods/carpo-b-thumb.jpg" alt="Carpo Mk-3B" width="300">
-</a>
+  <div class="mod-card">
+    <a href="/images/mods/carpo-a-thumb.jpg">
+      <img src="/images/mods/carpo-a-thumb.jpg" alt="Carpo Mk-3A">
+    </a>
+    <h4>Carpo Mk-3A</h4>
+    <p>Variant A of my updated and improved Carpo-series design.</p>
+    <div class="mod-links">
+      <a href="https://steamcommunity.com/sharedfiles/filedetails/?id=2949565858" target="_blank">View on Steam Workshop</a>
+    </div>
+  </div>
+</div>
 
-Variant B of my updated and improved Carpo-series design.
-[View on Steam Workshop](https://steamcommunity.com/sharedfiles/filedetails/?id=2949614191)
-
-### Carpo Mk-3A
-<!-- This is HTML code -->
-<a href="/images/mods/carpo-a-thumb.jpg">
-  <img src="/images/mods/carpo-a-thumb.jpg" alt="Carpo Mk-3A" width="300">
-</a>
-
-Variant A of my updated and improved Carpo-series design.
-[View on Steam Workshop](https://steamcommunity.com/sharedfiles/filedetails/?id=2949565858)
+---
 
 ## Avorion
+
 *My best designs thus far*
 
-### Tempest-Class Cruiser
-<!-- This is HTML code -->
-<a href="/images/mods/tempest-thumb.jpg">
-  <img src="/images/mods/tempest-thumb.jpg" alt="Tempest-Class Cruiser" width="300">
-</a>
+<div class="mod-grid">
+  <div class="mod-card">
+    <a href="/images/mods/tempest-thumb.jpg">
+      <img src="/images/mods/tempest-thumb.jpg" alt="Tempest-Class Cruiser">
+    </a>
+    <h4>Tempest-Class Cruiser</h4>
+    <p>A massive vessel that surprisingly had less than 3,000 blocks, is sleek, and spacious enough for many future upgrades.</p>
+    <div class="mod-links">
+      <a href="https://steamcommunity.com/sharedfiles/filedetails/?id=3111931456" target="_blank">View on Steam Workshop</a>
+    </div>
+  </div>
 
-A massive vessel that surprisingly had less than 3,000 blocks, is sleek, and spacious enough for many future upgrades.
-[View on Steam Workshop](https://steamcommunity.com/sharedfiles/filedetails/?id=3111931456)
+  <div class="mod-card">
+    <a href="/images/mods/crusader-thumb.jpg">
+      <img src="/images/mods/crusader-thumb.jpg" alt="Crusader-Class Destroyer">
+    </a>
+    <h4>Crusader-Class Destroyer</h4>
+    <p>A quad-nacelle ship with plenty of potential firepower.</p>
+    <div class="mod-links">
+      <a href="https://steamcommunity.com/sharedfiles/filedetails/?id=3103529360" target="_blank">View on Steam Workshop</a>
+    </div>
+  </div>
 
-### Crusader-Class Destroyer
-<!-- This is HTML code -->
-<a href="/images/mods/crusader-thumb.jpg">
-  <img src="/images/mods/crusader-thumb.jpg" alt="Crusader-Class Destroyer" width="300">
-</a>
+  <div class="mod-card">
+    <a href="/images/mods/arbalest-thumb.jpg">
+      <img src="/images/mods/arbalest-thumb.jpg" alt="Arbalest-Class Frigate">
+    </a>
+    <h4>Arbalest-Class Frigate</h4>
+    <p>An early-game vessel you can build fairly cheaply and it'll last until at least the mid-game.</p>
+    <div class="mod-links">
+      <a href="https://steamcommunity.com/sharedfiles/filedetails/?id=3094497887" target="_blank">View on Steam Workshop</a>
+    </div>
+  </div>
 
-A quad-nacelle ship with plenty of potential firepower.
-[View on Steam Workshop](https://steamcommunity.com/sharedfiles/filedetails/?id=3103529360)
+  <div class="mod-card">
+    <a href="/images/mods/vigilant-thumb.jpg">
+      <img src="/images/mods/vigilant-thumb.jpg" alt="Vigilant-Class Corvette">
+    </a>
+    <h4>Vigilant-Class Corvette, MK-2</h4>
+    <p>Updated version of my starter vessel.</p>
+    <div class="mod-links">
+      <a href="https://steamcommunity.com/sharedfiles/filedetails/?id=3159302348" target="_blank">View on Steam Workshop</a>
+    </div>
+  </div>
+</div>
 
-### Arbalest-Class Frigate
-<!-- This is HTML code -->
-<a href="/images/mods/arbalest-thumb.jpg">
-  <img src="/images/mods/arbalest-thumb.jpg" alt="Arbalest-Class Frigate" width="300">
-</a>
-
-An early-game vessel you can build fairly cheaply and it'll last until at least the mid-game.
-[View on Steam Workshop](https://steamcommunity.com/sharedfiles/filedetails/?id=3094497887)
-
-### Vigilant-Class Corvette
-<!-- This is HTML code -->
-<a href="/images/mods/vigilant-thumb.jpg">
-  <img src="/images/mods/vigilant-thumb.jpg" alt="Vigilant-Class Corvette, MK-2" width="300">
-</a>
-
-Updated version of my starter vessel.
-[View on Steam Workshop](https://steamcommunity.com/sharedfiles/filedetails/?id=3159302348)
+---
 
 ## Other Projects
 
