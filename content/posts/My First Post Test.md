@@ -17,4 +17,4 @@ tags:
 *   ...that's all you have to do
 *   
 
-![Image Description](/images/184_Vegeta.png)
+![Alt Text](184_Vegeta.png)
