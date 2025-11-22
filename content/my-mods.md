@@ -17,8 +17,9 @@ Here are the mods and projects I've created or contributed to.
 
 *My best designs thus far*
 - [![The Mantle](/images/mods/the-mantle-thumb.jpg)](/images/mods/the-mantle-thumb.jpg) - My latest submarine design using all that I have learned from my previous subs.
+
 [View on Steam Workshop](https://steamcommunity.com/sharedfiles/filedetails/?id=3284482424)
-- [The Hermadin]() - A vessel I started, forgot about, revisited and finished as quick as possible just for the sake of having it be completed. It's still advanced compared to my other subs, just might have a lot of mistakes.
+- [![The Hermadin](/images/mods/the-hermadin-thumb.jpg)](/images/mods/the-hermadin-thumb.jpg) - A vessel I started, forgot about, revisited and finished as quick as possible just for the sake of having it be completed. It's still advanced compared to my other subs, just might have a lot of mistakes.
 [View on Steam Workshop](https://steamcommunity.com/sharedfiles/filedetails/?id=3273308944)
 - [Carpo Mk-3B]() - Variant B of my updated and improved Carpo-series design.
 [View on Steam Workshop](https://steamcommunity.com/sharedfiles/filedetails/?id=2949614191)
