@@ -1,19 +1,21 @@
 <!DOCTYPE html>
 <html lang="en-us" dir="ltr">
-<head>
-	<meta name="generator" content="Hugo 0.152.2"><script src="/livereload.js?mindelay=10&amp;v=2&amp;port=1313&amp;path=livereload" data-no-instant defer></script>
+<head><script src="/livereload.js?mindelay=10&amp;v=2&amp;port=1313&amp;path=livereload" data-no-instant defer></script>
   <meta charset="utf-8">
 <meta name="viewport" content="width=device-width, initial-scale=1.0">
 
-<title>My New Hugo Site</title>
-<link rel="icon" href="/favicon.svg" sizes="any" type="image/svg+xml" /><meta property="og:url" content="//localhost:1313/">
+<title>The Second of Posts | My New Hugo Site</title>
+<link rel="icon" href="/favicon.svg" sizes="any" type="image/svg+xml" /><meta property="og:url" content="//localhost:1313/posts/my-second-post/">
   <meta property="og:site_name" content="My New Hugo Site">
-  <meta property="og:title" content="My New Hugo Site">
+  <meta property="og:title" content="The Second of Posts">
+  <meta property="og:description" content="Hell yes!!!">
   <meta property="og:locale" content="en_us">
-  <meta property="og:type" content="website">
+  <meta property="og:type" content="article">
+    <meta property="article:section" content="posts">
 
   <meta name="twitter:card" content="summary">
-  <meta name="twitter:title" content="My New Hugo Site">
+  <meta name="twitter:title" content="The Second of Posts">
+  <meta name="twitter:description" content="Hell yes!!!">
 
     <link rel="stylesheet" href="/css/root.css">
     <link rel="stylesheet" href="/css/bundle.css">
@@ -37,7 +39,7 @@
     <div style="position:absolute;width:0px;height:0px;">
       <div id="nav-dropdown-menu" class="hidden" href="#">
     <div class="nav-item">
-      <a href="/posts/"
+      <a aria-current="true" class="ancestor" href="/posts/"
       >Posts</a>
     </div>
 </div>
@@ -48,7 +50,7 @@
 </a>
     <div id="nav-menu">
     <div class="nav-item">
-      <a href="/posts/"
+      <a aria-current="true" class="ancestor" href="/posts/"
       >Posts</a>
     </div>
 </div>
@@ -66,39 +68,27 @@
 </header>
     <div class="flex grow">
       <div id="main-pane">
-        <main id="main-content"><div class="centered-container"><img style="border: var(--dim-color) 1px solid;border-radius:100%;" width="70px" src="images/profile.jpg"/><h1 class="margin-sm"></h1>
-    <div class="dim" style="width:70%;margin:0 15%;"></div>
-  </div><div style="width:95%;margin:0 auto;">
-    <div class="show-md" style="display:none;"><form onsubmit="searchBarSubmit(event)">
-  <div class="search-bar"><svg style="min-width:16px;" width="16px" height="16px" viewBox="0 0 24 24" fill="none" xmlns="http://www.w3.org/2000/svg">
-<path d="M15.7955 15.8111L21 21M18 10.5C18 14.6421 14.6421 18 10.5 18C6.35786 18 3 14.6421 3 10.5C3 6.35786 6.35786 3 10.5 3C14.6421 3 18 6.35786 18 10.5Z" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"/>
-</svg>
-<input id="searchInput" type="text" placeholder="Search..."/>
-  </div>
-</form>
-
-<script>
-  function searchBarSubmit(event) {
-    event.preventDefault();
-    const relativeUrl = `\/\/localhost:1313\/search/?q=${encodeURIComponent(event.target.elements['searchInput'].value)}`;
-    window.location.href = relativeUrl;
-  }
-</script>
-</div><h2>Recent Posts</h2>
-<div class="flat-list"><div class="flat-list-item">
-      <div>
-        <a href="/posts/my-first-post-test/">My First Post Test</a>
-        <time class="text-sm dim" style="float: right;" datetime="2023-05-02T00:00:00Z">November 21, 2025</time>
-      </div>
-      <small><p></p></small>
-    </div><div class="flat-list-item">
-      <div>
-        <a href="/posts/my-second-post/">The Second of Posts</a>
-        <time class="text-sm dim" style="float: right;" datetime="2023-05-02T00:00:00Z">January 1, 0001</time>
-      </div>
-      <small><p></p></small>
-    </div></div>
-</div></main>
+        <main id="main-content"><div class="single-header">
+<ol class="breadcrumbs" itemscope itemtype="https://schema.org/BreadcrumbList">
+    <li itemprop="itemListElement" itemscope itemtype="https://schema.org/ListItem">
+      <a itemprop="item" href="//localhost:1313/">
+        <span itemprop="name">Home</span>
+      </a>
+      <meta itemprop="position" content='1' />
+    </li>
+    <span>&nbsp»&nbsp</span>
+    <li itemprop="itemListElement" itemscope itemtype="https://schema.org/ListItem">
+      <a itemprop="item" href="//localhost:1313/posts/">
+        <span itemprop="name">Posts</span>
+      </a>
+      <meta itemprop="position" content='2' />
+    </li>
+    <span>&nbsp»&nbsp</span>
+</ol>
+<h1>The Second of Posts</h1><time class="dim" datetime="0001-01-01T00:00:00&#43;00:00">January 1, 1</time></div>
+  <section class="page-section"><p><img src="starsector.png" alt="alt text"></p>
+<p>Hell yes!!!</p>
+</section></main>
         <footer id="main-footer"><div class="footer">
   <a href="#">Scroll to Top</a>
   <div class="footer-copyright">
@@ -107,31 +97,9 @@
   </div>
 </div>
 </footer>
-      </div><aside id="side-pane" class=""><form onsubmit="searchBarSubmit(event)">
-  <div class="search-bar"><svg style="min-width:16px;" width="16px" height="16px" viewBox="0 0 24 24" fill="none" xmlns="http://www.w3.org/2000/svg">
-<path d="M15.7955 15.8111L21 21M18 10.5C18 14.6421 14.6421 18 10.5 18C6.35786 18 3 14.6421 3 10.5C3 6.35786 6.35786 3 10.5 3C14.6421 3 18 6.35786 18 10.5Z" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"/>
-</svg>
-<input id="searchInput" type="text" placeholder="Search..."/>
-  </div>
-</form>
-
-<script>
-  function searchBarSubmit(event) {
-    event.preventDefault();
-    const relativeUrl = `\/\/localhost:1313\/search/?q=${encodeURIComponent(event.target.elements['searchInput'].value)}`;
-    window.location.href = relativeUrl;
-  }
-</script>
-<h3>Tags</h3>
-    <ul class="taxonomy-list"><li>
-    <a class="tag" href="//localhost:1313/tags/blog-stuff/">
-      #blog stuff&nbsp<span class="text-sm dim">1</span>
-    </a>
-      </li><li>
-    <a class="tag" href="//localhost:1313/tags/vscodium/">
-      #vscodium&nbsp<span class="text-sm dim">1</span>
-    </a>
-      </li></ul></aside></div>
+      </div><aside id="side-pane" class="side-sticky"><div class="side-details">
+    <span>2 words</span>
+    <span>0 - 0 minutes read</span></div></aside></div>
   </div>
 </body>
 </html>
