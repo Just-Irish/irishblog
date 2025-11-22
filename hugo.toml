@@ -74,3 +74,8 @@ weight = 10
 
 [outputs]
  home = ["HTML","RSS", "SearchIndex"]
+
+ [markup]
+  [markup.goldmark]
+    [markup.goldmark.renderer]
+      unsafe = true
