@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>My New Hugo Site</title>
+    <link>/</link>
+    <description>Recent content on My New Hugo Site</description>
+    <generator>Hugo</generator>
+    <language>en-us</language>
+    <lastBuildDate>Fri, 21 Nov 2025 00:00:00 +0000</lastBuildDate>
+    <atom:link href="/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>My First Post Test</title>
+      <link>/posts/my-first-post-test/</link>
+      <pubDate>Fri, 21 Nov 2025 00:00:00 +0000</pubDate>
+      <guid>/posts/my-first-post-test/</guid>
+      <description>&lt;h2 id=&#34;vscodium&#34;&gt;VSCodium&lt;/h2&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;VSCodium is the BEST notes application in the world.&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;h3 id=&#34;the-setup&#34;&gt;The Setup&lt;/h3&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;Create a new folder labeled &lt;em&gt;posts&lt;/em&gt;. This is where you will add your blog posts.&lt;/li&gt;&#xA;&lt;li&gt;&amp;hellip;that&amp;rsquo;s all you have to do&lt;/li&gt;&#xA;&lt;li&gt;&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;p&gt;&lt;img src=&#34;/images/184_Vegeta.png&#34; alt=&#34;Image Description&#34;&gt;&lt;/p&gt;</description>
+    </item>
+  </channel>
+</rss>
