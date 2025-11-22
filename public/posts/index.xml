@@ -9,6 +9,13 @@
     <lastBuildDate>Sat, 22 Nov 2025 00:00:00 +0000</lastBuildDate>
     <atom:link href="/posts/index.xml" rel="self" type="application/rss+xml" />
     <item>
+      <title>Test Number 3</title>
+      <link>/posts/test-number-3/</link>
+      <pubDate>Sat, 22 Nov 2025 00:00:00 +0000</pubDate>
+      <guid>/posts/test-number-3/</guid>
+      <description>&lt;h1 id=&#34;here-we-going-trying-again&#34;&gt;Here we going trying again&lt;/h1&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;Not sure how, but yes&lt;/li&gt;&#xA;&lt;li&gt;Yes we will do it&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;p&gt;&lt;img src=&#34;/images/Screenshot_20251122_013752.png&#34; alt=&#34;alt text&#34;&gt;&lt;/p&gt;</description>
+    </item>
+    <item>
       <title>The Second of Posts</title>
       <link>/posts/my-second-post/</link>
       <pubDate>Sat, 22 Nov 2025 00:00:00 +0000</pubDate>
