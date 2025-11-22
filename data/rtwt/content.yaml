@@ -1,15 +1,13 @@
-#home:
-#  image: 'images/rt_logo.jpg'
-#  greetings: 'A Hugo Theme for Bloggers!'
-#  text: 'The definitive, configurable, customizable, old fashioned rusty coloured theme for web writers and readers.'
-#side:
-#  home:
-#  - content: 'If you like the theme make sure to give the repo a star!'
-#    imagePath: 'images/gh_source.png'
-#    imageHref: 'https://github.com/math-queiroz/rusty-typewriter'
-#    imageWidth: '100%'
-#  - title: 'Side Pane Features'
-#    content: 'There are lots of features regarding the side pane, check [the docs]({{< ref "features/static-content" >}}) for info.'
-#  single:
-#  - title: 'Static Content'
-#    content: 'Single pages (a.k.a. blog posts) can also have static content like so!'
+home:
+  image: 'images/ji_cropped.jpg'
+  greetings: 'Welcome to my Little Hobby Hole'
+  text: 'These are the Musings of an Inconsequential Lifetime Gamer'
+side:
+  home:
+  - content: 'If you like what I have to say, subscribe with RSS!'
+    imagePath: 'images/gh_source.png'
+    imageHref: 'https://github.com/Just-Irish/irishblog/tree/hostinger'
+    imageWidth: '100%'
+  single:
+  - title: 'About This Blog'
+    content: 'Welcome! This is where I share my thoughts on gaming and technology.'
