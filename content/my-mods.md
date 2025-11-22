@@ -11,6 +11,9 @@ Here are a few of the mods and projects I've created or contributed to. Really t
 ## Vintage Story Mods
 
 <div class="mod-item">
+ <a href="/images/mods/automated-server-messages.jpg">
+  <img src="/images/mods/automated-server-messages.jpg" alt="Automated Server Messages">
+  </a>
   <div class="mod-info">
     <h4>Automated Server Messages</h4>
     <p>I had a need to have messages trigger to inform players if a server restart was imminent. None of the code is mine as Claude and ChatGPT created it all, I merely had the idea.</p>
@@ -82,8 +85,6 @@ Here are a few of the mods and projects I've created or contributed to. Really t
 ---
 
 ## Avorion
-
-*My best designs thus far*
 
 <div class="mod-item">
   <a href="/images/mods/tempest-thumb.jpg">
