@@ -21,7 +21,9 @@ I had a need to have messages trigger to inform players if a server restart was 
 *My best designs thus far*
 
 ### The Mantle
-[![The Mantle](/images/mods/mantle-thumb.jpg)](/images/mods/mantle-thumb.jpg)
+<a href="/images/mods/mantle-thumb.jpg">
+  <img src="/images/mods/mantle-thumb.jpg" alt="The Mantle" width="300">
+</a>
 
 My latest submarine design using all that I have learned from my previous subs.
 
@@ -60,21 +62,21 @@ A massive vessel that surprisingly had less than 3,000 blocks, is sleek, and spa
 [View on Steam Workshop](https://steamcommunity.com/sharedfiles/filedetails/?id=3111931456)
 
 ### Crusader-Class Destroyer
-- [![Crusader-Class Destroyer](/images/mods/crusader-thumb.jpg)](/images/mods/crusader-thumb.jpg)
+[![Crusader-Class Destroyer](/images/mods/crusader-thumb.jpg)](/images/mods/crusader-thumb.jpg)
 
 A quad-nacelle ship with plenty of potential firepower.
 
 [View on Steam Workshop](https://steamcommunity.com/sharedfiles/filedetails/?id=3103529360)
 
 ### Arbalest-Class Frigate
-- [![Arbalest-Class Frigate](/images/mods/arbalest-thumb.jpg)](/images/mods/arbalest-thumb.jpg)
+[![Arbalest-Class Frigate](/images/mods/arbalest-thumb.jpg)](/images/mods/arbalest-thumb.jpg)
 
 An early-game vessel you can build fairly cheaply and it'll last until at least the mid-game.
 
 [View on Steam Workshop](https://steamcommunity.com/sharedfiles/filedetails/?id=3094497887)
 
 ### Vigilant-Class Corvette
-- [![Vigilant-Class Corvette, MK-2](/images/mods/vigilant-mk2-thumb.jpg)](/images/mods/vigilant-mk2-thumb.jpg)
+[![Vigilant-Class Corvette, MK-2](/images/mods/vigilant-mk2-thumb.jpg)](/images/mods/vigilant-mk2-thumb.jpg)
 
 Updated version of my starter vessel.
 
