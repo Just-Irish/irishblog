@@ -35,14 +35,14 @@ A vessel I started, forgot about, revisited and finished as quick as possible ju
 [View on Steam Workshop](https://steamcommunity.com/sharedfiles/filedetails/?id=3273308944)
 
 ### Carpo Mk-3B
-[![Carpo Mk-3B](/images/mods/carpo-mk3b-thumb.jpg)](/images/mods/carpo-mk3b-thumb.jpg)
+[![Carpo Mk-3B](/images/mods/carpo-b-thumb.jpg)](/images/mods/carpo-b-thumb.jpg)
 
 Variant B of my updated and improved Carpo-series design.
 
 [View on Steam Workshop](https://steamcommunity.com/sharedfiles/filedetails/?id=2949614191)
 
 ### Carpo Mk-3A
-[![Carpo Mk-3A](/images/mods/carpo-mk3a-thumb.jpg)](/images/mods/carpo-mk3a-thumb.jpg)
+[![Carpo Mk-3A](/images/mods/carpo-a-thumb.jpg)](/images/mods/carpo-a-thumb.jpg)
 
 Variant A of my updated and improved Carpo-series design.
 
