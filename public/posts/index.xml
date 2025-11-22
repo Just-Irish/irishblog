@@ -2,32 +2,32 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Posts on My New Hugo Site</title>
-    <link>/posts/</link>
+    <link>https://www.insignificantgamer.blog/posts/</link>
     <description>Recent content in Posts on My New Hugo Site</description>
     <generator>Hugo</generator>
     <language>en-us</language>
     <lastBuildDate>Sat, 22 Nov 2025 00:00:00 +0000</lastBuildDate>
-    <atom:link href="/posts/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="https://www.insignificantgamer.blog/posts/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Test Number 3</title>
-      <link>/posts/test-number-3/</link>
+      <link>https://www.insignificantgamer.blog/posts/test-number-3/</link>
       <pubDate>Sat, 22 Nov 2025 00:00:00 +0000</pubDate>
-      <guid>/posts/test-number-3/</guid>
-      <description>&lt;h1 id=&#34;here-we-going-trying-again&#34;&gt;Here we going trying again&lt;/h1&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;Not sure how, but yes&lt;/li&gt;&#xA;&lt;li&gt;Yes we will do it&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;p&gt;&lt;img src=&#34;/images/Screenshot_20251122_013752.png&#34; alt=&#34;alt text&#34;&gt;&lt;/p&gt;</description>
+      <guid>https://www.insignificantgamer.blog/posts/test-number-3/</guid>
+      <description>&lt;h1 id=&#34;here-we-going-trying-again&#34;&gt;Here we going trying again&lt;/h1&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;Not sure how, but yes&lt;/li&gt;&#xA;&lt;li&gt;Yes we will do it&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;p&gt;&lt;img src=&#34;https://www.insignificantgamer.blog/images/Screenshot_20251122_013752.png&#34; alt=&#34;alt text&#34;&gt;&lt;/p&gt;</description>
     </item>
     <item>
       <title>The Second of Posts</title>
-      <link>/posts/my-second-post/</link>
+      <link>https://www.insignificantgamer.blog/posts/my-second-post/</link>
       <pubDate>Sat, 22 Nov 2025 00:00:00 +0000</pubDate>
-      <guid>/posts/my-second-post/</guid>
-      <description>&lt;p&gt;&lt;img src=&#34;/images/starsector.png&#34; alt=&#34;alt text&#34;&gt;&lt;/p&gt;&#xA;&lt;p&gt;Hell yes!!!&lt;/p&gt;</description>
+      <guid>https://www.insignificantgamer.blog/posts/my-second-post/</guid>
+      <description>&lt;p&gt;&lt;img src=&#34;https://www.insignificantgamer.blog/images/starsector.png&#34; alt=&#34;alt text&#34;&gt;&lt;/p&gt;&#xA;&lt;p&gt;Hell yes!!!&lt;/p&gt;</description>
     </item>
     <item>
       <title>My First Post Test</title>
-      <link>/posts/my-first-post-test/</link>
+      <link>https://www.insignificantgamer.blog/posts/my-first-post-test/</link>
       <pubDate>Fri, 21 Nov 2025 00:00:00 +0000</pubDate>
-      <guid>/posts/my-first-post-test/</guid>
-      <description>&lt;h2 id=&#34;vscodium&#34;&gt;VSCodium&lt;/h2&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;VSCodium is the BEST notes application in the world.&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;h3 id=&#34;the-setup&#34;&gt;The Setup&lt;/h3&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;Create a new folder labeled &lt;em&gt;posts&lt;/em&gt;. This is where you will add your blog posts.&lt;/li&gt;&#xA;&lt;li&gt;&amp;hellip;that&amp;rsquo;s all you have to do&lt;/li&gt;&#xA;&lt;li&gt;&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;p&gt;&lt;img src=&#34;/images/184_Vegeta.png&#34; alt=&#34;Alt Text&#34;&gt;&lt;/p&gt;</description>
+      <guid>https://www.insignificantgamer.blog/posts/my-first-post-test/</guid>
+      <description>&lt;h2 id=&#34;vscodium&#34;&gt;VSCodium&lt;/h2&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;VSCodium is the BEST notes application in the world.&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;h3 id=&#34;the-setup&#34;&gt;The Setup&lt;/h3&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;Create a new folder labeled &lt;em&gt;posts&lt;/em&gt;. This is where you will add your blog posts.&lt;/li&gt;&#xA;&lt;li&gt;&amp;hellip;that&amp;rsquo;s all you have to do&lt;/li&gt;&#xA;&lt;li&gt;&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;p&gt;&lt;img src=&#34;https://www.insignificantgamer.blog/images/184_Vegeta.png&#34; alt=&#34;Alt Text&#34;&gt;&lt;/p&gt;</description>
     </item>
   </channel>
 </rss>
