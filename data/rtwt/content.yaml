@@ -4,7 +4,7 @@ home:
   text: 'These are the Musings of an Inconsequential Lifetime Gamer'
 side:
   home:
-  - content: 'If you like what I have to say, subscribe with RSS!'
+  - content: 'If you like what I have to say, subscribe via [RSS feed](/index.xml) to get all posts delivered to your RSS reader!'
     imagePath: 'images/gh_source.png'
     imageHref: 'https://github.com/Just-Irish/irishblog/tree/hostinger'
     imageWidth: '100%'
