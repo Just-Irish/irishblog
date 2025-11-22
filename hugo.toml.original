@@ -6,7 +6,6 @@ theme = 'rusty-typewriter'
 [params.rtwt]
   sidePane = true
   countPageItems = 7
-  searchPath = 'search'
 
 [params.rtwt.home]
   showBio = true
@@ -39,18 +38,3 @@ weight = 1
 name = 'RSS'
 url = '/index.xml'
 weight = 10
-
-# Build search index
-[outputFormats]
- [outputFormats.SearchIndex]
-  mediaType = "application/json"
-  baseName = "searchindex"
-  isPlainText = true
-  notAlternative = true
-
-[mediaTypes]
- [mediaTypes."application/json"]
-  suffixes = ["json"]
-
-[outputs]
- home = ["HTML","RSS", "SearchIndex"]
