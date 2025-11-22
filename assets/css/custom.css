@@ -1,60 +1,63 @@
-/* Card Grid Layout for Mods Page */
-.mod-grid {
-  display: grid;
-  grid-template-columns: repeat(auto-fill, minmax(300px, 1fr));
+/* Side-by-Side Layout for Mods Page */
+.mod-item {
+  display: flex;
   gap: 25px;
   margin: 30px 0;
-}
-
-.mod-card {
+  padding: 20px;
   border: 1px solid var(--dim-color);
   border-radius: 8px;
-  padding: 20px;
-  transition: transform 0.2s, box-shadow 0.2s;
+  align-items: flex-start;
+  transition: box-shadow 0.2s;
   background: var(--body-background-color);
 }
 
-.mod-card:hover {
-  transform: translateY(-5px);
-  box-shadow: 0 6px 16px rgba(0,0,0,0.2);
+.mod-item:hover {
+  box-shadow: 0 4px 12px rgba(0,0,0,0.15);
 }
 
-.mod-card img {
-  width: 100%;
+.mod-item img {
+  width: 280px;
   height: auto;
-  border-radius: 6px;
-  margin-bottom: 15px;
-  display: block;
+  border-radius: 8px;
+  flex-shrink: 0;
 }
 
-.mod-card h4 {
+.mod-info {
+  flex: 1;
+}
+
+.mod-info h4 {
   margin-top: 0;
   margin-bottom: 10px;
   color: var(--primary-color);
 }
 
-.mod-card p {
+.mod-info p {
   margin: 10px 0;
   line-height: 1.6;
 }
 
-.mod-card a {
-  color: var(--primary-color);
-  text-decoration: none;
-}
-
-.mod-card a:hover {
-  text-decoration: underline;
-}
-
 .mod-links {
   margin-top: 15px;
-  padding-top: 15px;
-  border-top: 1px solid var(--dim-color);
 }
 
 .mod-links a {
-  display: inline-block;
+  color: var(--primary-color);
+  text-decoration: none;
   margin-right: 15px;
   font-size: 0.9em;
+}
+
+.mod-links a:hover {
+  text-decoration: underline;
+}
+
+/* Mobile responsive */
+@media (max-width: 768px) {
+  .mod-item {
+    flex-direction: column;
+  }
+  .mod-item img {
+    width: 100%;
+  }
 }
