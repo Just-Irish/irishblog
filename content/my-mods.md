@@ -6,7 +6,7 @@ type: "blank"
 
 # My Mods & Projects
 
-Here are the mods and projects I've created or contributed to.
+Here are a few of the mods and projects I've created or contributed to. Really these are just designs rather than actual coding to form a coherent modification to a game.
 
 ## Vintage Story Mods
 
@@ -17,7 +17,6 @@ I had a need to have messages trigger to inform players if a server restart was 
 [View on GitHub](https://github.com/Just-Irish/Automated-Server-Messages)
 
 ## Barotrauma
-*My best designs thus far*
 
 ### The Mantle
 <!-- This is HTML code -->
@@ -39,8 +38,8 @@ A vessel I started, forgot about, revisited and finished as quick as possible ju
 
 ### Carpo Mk-3B
 <!-- This is HTML code -->
-<a href="/images/mods/carpo-mk3b-thumb.jpg">
-  <img src="/images/mods/carpo-mk3b-thumb.jpg" alt="Carpo Mk-3B" width="300">
+<a href="/images/mods/carpo-b-thumb.jpg">
+  <img src="/images/mods/carpo-b-thumb.jpg" alt="Carpo Mk-3B" width="300">
 </a>
 
 Variant B of my updated and improved Carpo-series design.
@@ -48,8 +47,8 @@ Variant B of my updated and improved Carpo-series design.
 
 ### Carpo Mk-3A
 <!-- This is HTML code -->
-<a href="/images/mods/carpo-mk3a-thumb.jpg">
-  <img src="/images/mods/carpo-mk3a-thumb.jpg" alt="Carpo Mk-3A" width="300">
+<a href="/images/mods/carpo-a-thumb.jpg">
+  <img src="/images/mods/carpo-a-thumb.jpg" alt="Carpo Mk-3A" width="300">
 </a>
 
 Variant A of my updated and improved Carpo-series design.
@@ -87,8 +86,8 @@ An early-game vessel you can build fairly cheaply and it'll last until at least 
 
 ### Vigilant-Class Corvette
 <!-- This is HTML code -->
-<a href="/images/mods/vigilant-mk2-thumb.jpg">
-  <img src="/images/mods/vigilant-mk2-thumb.jpg" alt="Vigilant-Class Corvette, MK-2" width="300">
+<a href="/images/mods/vigilant-thumb.jpg">
+  <img src="/images/mods/vigilant-thumb.jpg" alt="Vigilant-Class Corvette, MK-2" width="300">
 </a>
 
 Updated version of my starter vessel.
