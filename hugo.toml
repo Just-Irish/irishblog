@@ -1,6 +1,7 @@
+baseURL = "https://www.insignificantgamer.blog/"
 languageCode = 'en-us'
 title = 'My New Hugo Site'
-baseURL = "https://www.insignificantgamer.blog/"
+theme = 'rusty-typewriter'
 [params.rtwt]
   sidePane = true
   countPageItems = 7
