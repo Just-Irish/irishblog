@@ -1,5 +1,5 @@
 ---
-title: "About"
+title: "About Me"
 date: 2025-11-22
 type: "blank"
 ---
