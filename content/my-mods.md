@@ -6,7 +6,7 @@ build:
   list: never
 ---
 
-<!-- # My Mods & Projects -->
+# My Mods & Projects
 
 Here are a few of the mods and projects I've created or contributed to. Really these are just designs rather than actual coding to form a coherent modification to a game.
 

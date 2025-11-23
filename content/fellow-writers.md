@@ -6,7 +6,7 @@ build:
   list: never
 ---
 
-<!-- # Fellow Writers & Gaming Blogs -->
+# Fellow Writers & Gaming Blogs
 
 Here are some excellent gaming blogs and writers I follow:
 
