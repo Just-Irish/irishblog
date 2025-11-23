@@ -15,7 +15,6 @@ summary: "Sometimes you have to take a laxative and let the cork bust... Here's 
 #  caption: "Image caption"
 ---
 
-## I Hate AI, but Quietly Love It
 
 No, no, not in the sense that you are thinking - creep. I'm sorry, some of you weirdos out there are so far removed from normal societal behaviors that normal people not wanting to interact with you is wholly deserving. It's like watching a porn addict try to have a normal relationship - they can't - and they've done that to themselves. Just like you weirdies marrying the AI on your damn phone... I can't begin to comprehend the mental process. This is not my declaration of war against you, not at all; I'll be your friend, I'm just going to let you know you're really fucking weird and that it is wrong and that I'm slightly uncomfortable.
 
@@ -70,6 +69,6 @@ Anyone who has expressed some interest in the history of World War II will be fa
 
 ## It Can be Good or Bad; Depends on Who You Are
 
-I've ranted long enough about this. Fact of the matter is that AI can be both benefical and detrimental for people and society. And like anything else in this world those with honor and integrity will use it for fun or to actually make a difference, and those who could care less and have no shame will use it for all the despicable reasons you can think of. AI is now our world and we need to get used to it and we need to be able to spot it. You *can* spot AI and I highly encourage you to watch the video I link down below because we need to be able to recognize it and we need to call out the bullshit like a person would a snakeoil salesman.
+I've ranted long enough about this. Fact of the matter is that AI can be both beneficial and detrimental for people and society. And like anything else in this world those with honor and integrity will use it for fun or to actually make a difference, and those who could care less and have no shame will use it for all the despicable reasons you can think of. AI is now our world and we need to get used to it and we need to be able to spot it. You *can* spot AI and I highly encourage you to watch the video I link down below because we need to be able to recognize it and we need to call out the bullshit like a person would a snakeoil salesman.
 
 {{< youtube 9Ch4a6ffPZY >}}
