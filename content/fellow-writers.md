@@ -27,7 +27,7 @@ Here are some excellent gaming blogs and writers I follow:
 
 - [DunGen](https://dungen.app/dungen/) - Need to generate a quick dungeon for your tabletop session? DunGen has you covered.
 - [Dungeon Scrawl](https://probabletrain.itch.io/dungeon-scrawl) - Want to *create* your own quick dungeon? D-Scrawl is where it's at.
-- [[PapersPencils](https://www.paperspencils.com/the-dungeon-d100s-structures/) - Want a dungeon made from rolling a d100? This works great, but there is nothing visual, it's all imagination.
+- [PapersPencils](https://www.paperspencils.com/the-dungeon-d100s-structures/) - Want a dungeon made from rolling a d100? This works great, but there is nothing visual, it's all imagination.
 - [Kassoon](https://www.kassoon.com/) - Need some random items generated whether they are magical or junk? Kassoon has some generators for many things for you to take advantage of.
 
 *Know a great gaming blog? Let me know!*

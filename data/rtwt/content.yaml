@@ -8,6 +8,8 @@ side:
     imagePath: 'images/gh_source.png'
     imageHref: 'https://github.com/Just-Irish/irishblog/tree/hostinger'
     imageWidth: '100%'
+  - title: 'Connect With Me'
+    content: 'Find me on social media: [GitHub](https://github.com/Just-Irish) • [Steam](YOUR_STEAM_URL) • [X](YOUR_X_URL) • [Mastodon](YOUR_MASTODON_URL)'
   single:
   - title: 'About This Blog'
     content: 'Welcome! This is where I share my thoughts on gaming and technology.'
