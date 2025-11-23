@@ -9,24 +9,129 @@
     <lastBuildDate>Sat, 22 Nov 2025 00:00:00 +0000</lastBuildDate>
     <atom:link href="https://www.insignificantgamer.blog/tags/index.xml" rel="self" type="application/rss+xml" />
     <item>
-      <title>Blog Stuff</title>
-      <link>https://www.insignificantgamer.blog/tags/blog-stuff/</link>
-      <pubDate>Sat, 22 Nov 2025 00:00:00 +0000</pubDate>
-      <guid>https://www.insignificantgamer.blog/tags/blog-stuff/</guid>
-      <description></description>
-    </item>
-    <item>
-      <title>Vscodium</title>
-      <link>https://www.insignificantgamer.blog/tags/vscodium/</link>
-      <pubDate>Sat, 22 Nov 2025 00:00:00 +0000</pubDate>
-      <guid>https://www.insignificantgamer.blog/tags/vscodium/</guid>
+      <title>Deep-Thoughts</title>
+      <link>https://www.insignificantgamer.blog/tags/deep-thoughts/</link>
+      <pubDate>Tue, 17 Jun 2025 00:00:00 +0000</pubDate>
+      <guid>https://www.insignificantgamer.blog/tags/deep-thoughts/</guid>
       <description></description>
     </item>
     <item>
       <title>Gaming</title>
       <link>https://www.insignificantgamer.blog/tags/gaming/</link>
-      <pubDate>Sun, 06 Oct 2024 00:00:00 +0000</pubDate>
+      <pubDate>Tue, 17 Jun 2025 00:00:00 +0000</pubDate>
       <guid>https://www.insignificantgamer.blog/tags/gaming/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Ramblings</title>
+      <link>https://www.insignificantgamer.blog/tags/ramblings/</link>
+      <pubDate>Tue, 17 Jun 2025 00:00:00 +0000</pubDate>
+      <guid>https://www.insignificantgamer.blog/tags/ramblings/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Video-Games</title>
+      <link>https://www.insignificantgamer.blog/tags/video-games/</link>
+      <pubDate>Tue, 17 Jun 2025 00:00:00 +0000</pubDate>
+      <guid>https://www.insignificantgamer.blog/tags/video-games/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Cartoon</title>
+      <link>https://www.insignificantgamer.blog/tags/cartoon/</link>
+      <pubDate>Sun, 15 Dec 2024 00:00:00 +0000</pubDate>
+      <guid>https://www.insignificantgamer.blog/tags/cartoon/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Final-Space</title>
+      <link>https://www.insignificantgamer.blog/tags/final-space/</link>
+      <pubDate>Sun, 15 Dec 2024 00:00:00 +0000</pubDate>
+      <guid>https://www.insignificantgamer.blog/tags/final-space/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Good-Review</title>
+      <link>https://www.insignificantgamer.blog/tags/good-review/</link>
+      <pubDate>Sun, 15 Dec 2024 00:00:00 +0000</pubDate>
+      <guid>https://www.insignificantgamer.blog/tags/good-review/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Review</title>
+      <link>https://www.insignificantgamer.blog/tags/review/</link>
+      <pubDate>Sun, 15 Dec 2024 00:00:00 +0000</pubDate>
+      <guid>https://www.insignificantgamer.blog/tags/review/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Show</title>
+      <link>https://www.insignificantgamer.blog/tags/show/</link>
+      <pubDate>Sun, 15 Dec 2024 00:00:00 +0000</pubDate>
+      <guid>https://www.insignificantgamer.blog/tags/show/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Tv</title>
+      <link>https://www.insignificantgamer.blog/tags/tv/</link>
+      <pubDate>Sun, 15 Dec 2024 00:00:00 +0000</pubDate>
+      <guid>https://www.insignificantgamer.blog/tags/tv/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Random</title>
+      <link>https://www.insignificantgamer.blog/tags/random/</link>
+      <pubDate>Thu, 07 Nov 2024 00:00:00 +0000</pubDate>
+      <guid>https://www.insignificantgamer.blog/tags/random/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Battletech</title>
+      <link>https://www.insignificantgamer.blog/tags/battletech/</link>
+      <pubDate>Sun, 20 Oct 2024 00:00:00 +0000</pubDate>
+      <guid>https://www.insignificantgamer.blog/tags/battletech/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Initial-Review</title>
+      <link>https://www.insignificantgamer.blog/tags/initial-review/</link>
+      <pubDate>Sun, 20 Oct 2024 00:00:00 +0000</pubDate>
+      <guid>https://www.insignificantgamer.blog/tags/initial-review/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Mechwarrior</title>
+      <link>https://www.insignificantgamer.blog/tags/mechwarrior/</link>
+      <pubDate>Sun, 20 Oct 2024 00:00:00 +0000</pubDate>
+      <guid>https://www.insignificantgamer.blog/tags/mechwarrior/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Critique</title>
+      <link>https://www.insignificantgamer.blog/tags/critique/</link>
+      <pubDate>Sat, 12 Oct 2024 00:00:00 +0000</pubDate>
+      <guid>https://www.insignificantgamer.blog/tags/critique/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Minecraft</title>
+      <link>https://www.insignificantgamer.blog/tags/minecraft/</link>
+      <pubDate>Sat, 12 Oct 2024 00:00:00 +0000</pubDate>
+      <guid>https://www.insignificantgamer.blog/tags/minecraft/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Opinion</title>
+      <link>https://www.insignificantgamer.blog/tags/opinion/</link>
+      <pubDate>Sat, 12 Oct 2024 00:00:00 +0000</pubDate>
+      <guid>https://www.insignificantgamer.blog/tags/opinion/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Early-Access-Review</title>
+      <link>https://www.insignificantgamer.blog/tags/early-access-review/</link>
+      <pubDate>Sun, 06 Oct 2024 00:00:00 +0000</pubDate>
+      <guid>https://www.insignificantgamer.blog/tags/early-access-review/</guid>
       <description></description>
     </item>
     <item>
@@ -37,10 +142,10 @@
       <description></description>
     </item>
     <item>
-      <title>Review</title>
-      <link>https://www.insignificantgamer.blog/tags/review/</link>
+      <title>The-Forever-Winter</title>
+      <link>https://www.insignificantgamer.blog/tags/the-forever-winter/</link>
       <pubDate>Sun, 06 Oct 2024 00:00:00 +0000</pubDate>
-      <guid>https://www.insignificantgamer.blog/tags/review/</guid>
+      <guid>https://www.insignificantgamer.blog/tags/the-forever-winter/</guid>
       <description></description>
     </item>
   </channel>

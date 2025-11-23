@@ -4,8 +4,8 @@ date: 2024-10-06
 lastmod: 2025-11-22
 draft: false
 featured: false
-tags: ["review", "gaming", "grimdark"]
-topics: ["early-access-review"]
+tags: ["early-access-review", "gaming", "video-games", "grimdark", "the-forever-winter"]
+topics: ["forever-winter"]
 author: "Sean R."
 # description: "A quick and dirty rundown of The Forever Winter after its intial release into early access; not eloquent nor professional in the slightest."
 summary: "A quick and dirty rundown of The Forever Winter after its intial release into early access; not eloquent nor professional in the slightest."
