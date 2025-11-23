@@ -2,7 +2,7 @@
 title: "I Hate AI, but Quietly Love It"
 date: 2025-11-23
 lastmod: 2025-11-23
-draft: true
+draft: false
 featured: true
 tags: ["ramblings", "random", "observations", "AI"]
 topics: ["ramblings"]
