@@ -2,7 +2,7 @@
 title: "My Mods and Projects"
 date: 2025-11-22
 type: "blank"
-_build:
+build:
   list: never
 ---
 

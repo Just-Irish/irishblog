@@ -2,7 +2,7 @@
 title: "Fellow Writers and Gaming Blogs"
 date: 2025-11-22
 type: "blank"
-_build:
+build:
   list: never
 ---
 
