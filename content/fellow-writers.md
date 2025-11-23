@@ -1,10 +1,10 @@
 ---
-title: "Fellow Writers"
-date: 2025-11-22
+title: "Fellow Writers and Gaming Blogs"
+# date: 2025-11-22
 type: "page"
 ---
 
-# Fellow Writers & Gaming Blogs
+<!-- # Fellow Writers & Gaming Blogs -->
 
 Here are some excellent gaming blogs and writers I follow:
 

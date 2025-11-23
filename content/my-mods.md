@@ -1,10 +1,10 @@
 ---
-title: "My Mods"
-date: 2025-11-22
+title: "My Mods and Projects"
+# date: 2025-11-22
 type: "page"
 ---
 
-# My Mods & Projects
+<!-- # My Mods & Projects -->
 
 Here are a few of the mods and projects I've created or contributed to. Really these are just designs rather than actual coding to form a coherent modification to a game.
 

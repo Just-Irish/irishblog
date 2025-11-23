@@ -1,10 +1,9 @@
 ---
 title: "About Me"
-date: 2025-11-22
+# date: 2025-11-22
 type: "page"
 ---
 
-# About Me
 
 Welcome to my humble little space in the absolute vastness that is the internet.
 
