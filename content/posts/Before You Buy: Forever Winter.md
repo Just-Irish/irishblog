@@ -9,11 +9,12 @@ topics: ["early-access-review"]
 author: "Sean R."
 description: "A quick and dirty rundown of The Forever Winter after its intial release into early access; not eloquent nor professional in the slightest."
 # summary:
-cover:
-  image: "/images/fw-drone-thumb.webp"
+#cover:
+#  image: "/images/fw-drone-thumb.webp"
 #  alt: "Cover image description"
 #  caption: "Image caption"
 ---
+![Alt Text](/images/fw-drone-thumb.webp)
 
 *The Forever Winter*, developed by [Fun Dog Studios](https://www.fundogstudios.com/), recently entered Early Access on Steam and the Epic Game Store on September 24th. This is an extraction shooter not like any other that you have played as it takes a completely different approach to the genre. It maintains the same aspect of what you're familiar with when it comes to an extraction-shooter: enter a raid, collect loot, and get the fuck out - but what makes it different from its peers is that you are absolutely not a hero, you are not a badass, you are not important whatsoever, and you are not meant to survive.
 
