@@ -5,7 +5,7 @@ theme = 'rusty-typewriter'
 
 [params.rtwt]
   sidePane = true
-  countPageItems = 7
+  countPageItems = 20
   searchPath = 'search'
 
 [params.rtwt.home]

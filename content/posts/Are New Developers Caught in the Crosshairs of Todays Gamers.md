@@ -25,7 +25,7 @@ Well, recently the new(ish) studio *Build a Rocket Boy* (*BARB*) came onto the s
 
 ![Alt Text](/images/meye-gamesradar.webp)
 
-*For Full GamesRadar Review* [Click Here](https://www.gamesradar.com/games/third-person-shooter/mindseye-review/)
+*For Full GamesRadar Review*   [Click Here](https://www.gamesradar.com/games/third-person-shooter/mindseye-review/)
 
 The first major mistake was the studio deciding to use Epic Games Unreal Engine 5 (UE5). This game engine has been the bane of all video games recently released in the past couple years. Games using the engine run horribly even on brand new "better" hardware and look even worse than games released 15 years ago. But, according to some people online, that's merely because the developers don't know what they're doing with the engine and it's code. Well, if that's the case, this makes *BARB *and all the other studios using UE5 look even worse and UE5 actually the victim rather than a source.
 
@@ -39,7 +39,7 @@ But what if it isn't? What if they're genuine and really are bothered that they 
 
 I'm not going to touch on peoples claims that the game is genuinely garbage as I've no interest in buying or playing this game, this is just a bunch of hypotheticals and food for thought of when I saw the immediate backlash online to a game and studio I didn't even know existed. I do kind of miss not being so critical and just enjoying games for what they were, but the industry made me this way.
             
-Sources and Links
+## Sources and Links
 
 [GamesRadar Review](https://www.gamesradar.com/games/third-person-shooter/mindseye-review/)
 

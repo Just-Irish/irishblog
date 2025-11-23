@@ -1,0 +1,11 @@
+{{ define "main" }}
+  <h1>{{ .Title }}</h1>
+  
+  <ul>
+    {{ range .Pages.ByTitle }}
+      <li>
+        <a href="{{ .Permalink }}">{{ .Title }}</a> ({{ len .Pages }} posts)
+      </li>
+    {{ end }}
+  </ul>
+{{ end }}

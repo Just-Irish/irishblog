@@ -1,7 +1,7 @@
 ---
 title: "My Mods"
 date: 2025-11-22
-type: "blank"
+type: "page"
 ---
 
 # My Mods & Projects

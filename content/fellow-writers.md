@@ -1,7 +1,7 @@
 ---
 title: "Fellow Writers"
 date: 2025-11-22
-type: "blank"
+type: "page"
 ---
 
 # Fellow Writers & Gaming Blogs
