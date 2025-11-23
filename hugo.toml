@@ -31,34 +31,39 @@ theme = 'rusty-typewriter'
   countRelated = 5
 
 [[menus.main]]
+name = 'Home'
+pageRef = '/'
+weight = 1
+
+[[menus.main]]
 name = 'Posts'
 pageRef = '/posts'
-weight = 1
+weight = 2
 
 [[menus.main]]
 name = 'Tags'
 url = '/tags'
-weight = 2
+weight = 3
 
 [[menus.main]]
 name = 'About Me'
 pageRef = '/about-me'
-weight = 3
+weight = 4
 
 [[menus.main]]
 name = 'Fellow Writers'
 pageRef = '/fellow-writers'
-weight = 4
+weight = 5
 
 [[menus.main]]
 name = 'My Mods'
 pageRef = '/my-mods'
-weight = 5
+weight = 6
 
-[[menus.main]]
-name = 'RSS'
-url = '/index.xml'
-weight = 10
+#[[menus.main]]
+#name = 'RSS'
+#url = '/index.xml'
+#weight = 10
 
 # Build search index
 [outputFormats]
