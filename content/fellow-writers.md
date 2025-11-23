@@ -11,7 +11,7 @@ Here are some excellent gaming blogs and writers I follow:
 ## Friends of Mine
 
 - [The Leanto](https://leanto.ghost.io/) - Brandon and Richard are quite thought provoking and I regularly look forward to reading what they have to share.
-- [Untruned Hovel](https://unturnedhovel.bearblog.dev/) - Another (or the new) project of Brandon.
+- [Unturned Hovel](https://unturnedhovel.bearblog.dev/) - Another (or the new) project of Brandon as The Leanto has fallen silent.
 
 ## Important to the Gaming Sphere
 
