@@ -37,25 +37,46 @@
       <description>&lt;h1 id=&#34;search&#34;&gt;Search&lt;/h1&gt;&#xA;&lt;p&gt;Search through all posts on the site.&lt;/p&gt;&#xA;&lt;p class=&#34;hidden&#34;&gt;It&amp;#39;s necessary to enable Javascript&lt;/p&gt;&#xA;&lt;p class=&#34;search-loading hidden&#34;&gt;Loading...&lt;/p&gt;&#xA;&#xA;&lt;form id=&#34;search-form&#34; class=&#34;search-form&#34; action=&#34;#&#34; method=&#34;post&#34; accept-charset=&#34;UTF-8&#34; role=&#34;search&#34;&gt;&#xA;  &lt;div class=&#34;search-bar&#34;&gt;&#xA;    &lt;label for=&#34;query&#34; class=&#34;hidden&#34;&gt;&lt;/label&gt;&#xA;    &lt;input id=&#34;query&#34; class=&#34;search-text&#34; type=&#34;text&#34; placeholder=&#34;Search...&#34;/&gt;&#xA;  &lt;/div&gt;&#xA;&lt;/form&gt;&#xA;&#xA;&lt;div class=&#34;search-results&#34;&gt;&lt;/div&gt;&#xA;&#xA;&lt;template&gt;&#xA;  &lt;article class=&#34;search-result list-view&#34;&gt;&#xA;    &lt;header&gt;&#xA;      &lt;h2 class=&#34;title&#34;&gt;&lt;a href=&#34;#&#34;&gt;&lt;/a&gt;&lt;/h2&gt;&#xA;      &lt;div class=&#34;submitted&#34;&gt;&#xA;        &lt;time class=&#34;created-date&#34;&gt;&lt;/time&gt;&#xA;      &lt;/div&gt;&#xA;    &lt;/header&gt;&#xA;    &lt;p class=&#34;content&#34;&gt;&lt;/p&gt;&#xA;  &lt;/article&gt;&#xA;&lt;/template&gt;</description>
     </item>
     <item>
-      <title>Test Number 3</title>
-      <link>https://www.insignificantgamer.blog/posts/test-number-3/</link>
-      <pubDate>Sat, 22 Nov 2025 00:00:00 +0000</pubDate>
-      <guid>https://www.insignificantgamer.blog/posts/test-number-3/</guid>
-      <description>&lt;h1 id=&#34;here-we-going-trying-again&#34;&gt;Here we going trying again&lt;/h1&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;Not sure how, but yes&lt;/li&gt;&#xA;&lt;li&gt;Yes we will do it&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;p&gt;&lt;img src=&#34;https://www.insignificantgamer.blog/images/Screenshot_20251122_013752.png&#34; alt=&#34;alt text&#34;&gt;&lt;/p&gt;</description>
+      <title>Are New Developers Caught in the Crosshairs of Today&#39;s Gamers?</title>
+      <link>https://www.insignificantgamer.blog/posts/are-new-developers-caught-in-the-crosshairs-of-todays-gamers/</link>
+      <pubDate>Tue, 17 Jun 2025 00:00:00 +0000</pubDate>
+      <guid>https://www.insignificantgamer.blog/posts/are-new-developers-caught-in-the-crosshairs-of-todays-gamers/</guid>
+      <description>Watching news about the developer Build a Rocket Boy about their apparently horrible game MindsEye got me wondering if us gamers have become too damn critical&amp;hellip; No, no we haven&amp;rsquo;t.</description>
     </item>
     <item>
-      <title>The Second of Posts</title>
-      <link>https://www.insignificantgamer.blog/posts/my-second-post/</link>
-      <pubDate>Sat, 22 Nov 2025 00:00:00 +0000</pubDate>
-      <guid>https://www.insignificantgamer.blog/posts/my-second-post/</guid>
-      <description>&lt;p&gt;&lt;img src=&#34;https://www.insignificantgamer.blog/images/starsector.png&#34; alt=&#34;alt text&#34;&gt;&lt;/p&gt;&#xA;&lt;p&gt;Hell yes!!!&lt;/p&gt;</description>
+      <title>Final Space- A Rough Gem in a Sea of Mediocrity</title>
+      <link>https://www.insignificantgamer.blog/posts/final-space-a-rough-gem-in-a-sea-of-mediocrity/</link>
+      <pubDate>Sun, 15 Dec 2024 00:00:00 +0000</pubDate>
+      <guid>https://www.insignificantgamer.blog/posts/final-space-a-rough-gem-in-a-sea-of-mediocrity/</guid>
+      <description>After finishing the series I had to come share my thoughts and criticisms of a fantastic show that I believe more people need to see.</description>
     </item>
     <item>
-      <title>My First Post Test</title>
-      <link>https://www.insignificantgamer.blog/posts/my-first-post-test/</link>
-      <pubDate>Fri, 21 Nov 2025 00:00:00 +0000</pubDate>
-      <guid>https://www.insignificantgamer.blog/posts/my-first-post-test/</guid>
-      <description>&lt;h2 id=&#34;vscodium&#34;&gt;VSCodium&lt;/h2&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;VSCodium is the BEST notes application in the world.&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;h3 id=&#34;the-setup&#34;&gt;The Setup&lt;/h3&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;Create a new folder labeled &lt;em&gt;posts&lt;/em&gt;. This is where you will add your blog posts.&lt;/li&gt;&#xA;&lt;li&gt;&amp;hellip;that&amp;rsquo;s all you have to do&lt;/li&gt;&#xA;&lt;li&gt;&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;p&gt;&lt;img src=&#34;https://www.insignificantgamer.blog/images/184_Vegeta.png&#34; alt=&#34;Alt Text&#34;&gt;&lt;/p&gt;</description>
+      <title>Modernity is Safe, but Very Boring</title>
+      <link>https://www.insignificantgamer.blog/posts/modernity-is-safe-but-very-boring/</link>
+      <pubDate>Thu, 07 Nov 2024 00:00:00 +0000</pubDate>
+      <guid>https://www.insignificantgamer.blog/posts/modernity-is-safe-but-very-boring/</guid>
+      <description>I cover the things that I see and witness over time that seem to change from having its own identity to one that is almost unmistakably the same as another.</description>
+    </item>
+    <item>
+      <title>Out of Time or Just Getting Old</title>
+      <link>https://www.insignificantgamer.blog/posts/out-of-time-or-just-getting-old/</link>
+      <pubDate>Wed, 30 Oct 2024 00:00:00 +0000</pubDate>
+      <guid>https://www.insignificantgamer.blog/posts/out-of-time-or-just-getting-old/</guid>
+      <description>I briefly cover some thoughts of mine about hobbies and its association with aging.</description>
+    </item>
+    <item>
+      <title>Before You Buy- Mechwarrior 5 Clans</title>
+      <link>https://www.insignificantgamer.blog/posts/before-you-buy-mechwarrior-5-clans/</link>
+      <pubDate>Sun, 20 Oct 2024 00:00:00 +0000</pubDate>
+      <guid>https://www.insignificantgamer.blog/posts/before-you-buy-mechwarrior-5-clans/</guid>
+      <description>A quick and dirty rundown of Mechwarrior 5: Clans after its intial release; not eloquent nor professional in the slightest.</description>
+    </item>
+    <item>
+      <title>What is Minecraft to People</title>
+      <link>https://www.insignificantgamer.blog/posts/what-is-minecraft-to-people/</link>
+      <pubDate>Sat, 12 Oct 2024 00:00:00 +0000</pubDate>
+      <guid>https://www.insignificantgamer.blog/posts/what-is-minecraft-to-people/</guid>
+      <description>After revisiting Minecraft once again I had some thoughts about the growth and major changes that Minecraft had over the years that, in my opinion, were to the detriment to the game.</description>
     </item>
     <item>
       <title>Before You Buy- The Forever Winter</title>
