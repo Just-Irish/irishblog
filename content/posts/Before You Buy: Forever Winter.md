@@ -9,19 +9,17 @@ topics: ["early-access-review"]
 author: "Sean R."
 description: "A quick and dirty rundown of The Forever Winter after its intial release into early access; not eloquent nor professional in the slightest."
 # summary:
-# cover:
-#   image: "/images/post-cover.jpg"
-#   alt: "Cover image description"
-#   caption: "Image caption"
+cover:
+  image: "/images/fw-drone-thumb.webp"
+#  alt: "Cover image description"
+#  caption: "Image caption"
 ---
-
-# Before You Buy: The Forever Winter
 
 *The Forever Winter*, developed by [Fun Dog Studios](https://www.fundogstudios.com/), recently entered Early Access on Steam and the Epic Game Store on September 24th. This is an extraction shooter not like any other that you have played as it takes a completely different approach to the genre. It maintains the same aspect of what you're familiar with when it comes to an extraction-shooter: enter a raid, collect loot, and get the fuck out - but what makes it different from its peers is that you are absolutely not a hero, you are not a badass, you are not important whatsoever, and you are not meant to survive.
 
 This post-apocalyptic wasteland is ravaged beyond recognition as the war has been ongoing for so long that the year is only known as "20XX" as all sense of time has been lost. And you, a mere scavenger, are there to collect whatever you can from giant mechs littering the open battlefield and claustrophobic trenches brimming with corpses to help keep your home operational and its people alive for another day.
 
-![Alt Text](/images/begin-thumb.webp)
+![Alt Text](/images/fw-begin-thumb.webp)
 
 ## Too Long, Don't Want to Read
 
@@ -53,7 +51,7 @@ But there are other factors contributing to this. For instance, you can only spr
 
 This third-person camera could use some fixes. First and foremost, in my opinion, would be the ability to switch shoulders. Currently, you are locked to viewing over the character's right shoulder and this can be   very detrimental when moving right-to-left around corners since you cannot see anything. You can circumvent this a little by aiming down your sights, but it is still more advantageous to move left-to-right around corners if possible as you can view around these obstacles without putting yourself at risk.
 
-![Alt Text](/images/view-thumb.webp)
+![Alt Text](/images/fw-view-thumb.webp)
 
 Another problem with the camera is that your character will block your view. This becomes more prominent when you are in a tight space or are up against a wall which results in pushing the camera closer to your character. A youtuber I watch said it best, "This game is begging to be a first person." And I would have to agree. Situational awareness is key to surviving, and if you cannot see around yourself because the camera is working against you, you are going to die. I definitely don't want this to be a first-person, mind you. It is best as a third-person game, but it needs tweaking.
 
@@ -69,13 +67,13 @@ You are also a beacon for the enemy to spawn on top of. It is not intentional; y
 
 This is something that surprisngly doesn't need too much work. What is there is adequate, but it can always be better. Currently, the AI seems to operate on a predetermined waypoint-like system until they stumble into an enemy; then they make a b-line for htem until they are within optimal range and proceed to stand in the open. If they survive, they will fall back onto their original waypoint loop and repeat the process until they are annihilated.
 
-![Alt Text](/images/ai-thumb.webp)
+![Alt Text](/images/fw-ai-thumb.webp)
 
 ### Gear
 
 You have a wide variety of weapons, rigs, and other items to customize your guns and backpacks, but detailed descriptions and other pertinent information is lacking. Until you purchase or acquire an item you have no idea what the benefits of them are until you put it on a weapon. If you found a foreggrip, the item description will just say "*Foregrip B. Fits many things.*"
 
-![Alt Text](/images/attachments-thumb.webp)
+![Alt Text](/images/fw-attachments-thumb.webp)
 
 So, with that variety you can essentially customize your guns like you would in *Escape from Tarkov*, but without the aesthetically pleasing interface that Tarkov has.
 
@@ -91,7 +89,7 @@ There are also LMGs, Grenade Launchers, and specialty weapons that can only be f
 
 Aside from all that, you have your Rig, or backpack, to consider. There are different variants that you can earn and purchase and there are also parts you can acquire to further customize them. A Rig's customization layout is like a keypad: the central being the main portion of the pack, then the outer slots surround the center. You can mix and match container types to either carry general debris or more large items like barrels of water or explosives.
 
-![Alt Text](/images/rigs-thumb.webp)
+![Alt Text](/images/fw-rigs-thumb.webp)
 
 ### HUB
 
@@ -105,6 +103,6 @@ There's a lot of problems, and most really just come down to the game needing op
 
 I'm not exactly sure what the end-goal of the game is. In *Escape From Tarkov* it is getting to a point where you can buy any piece of equipment you want and running any raid however you want, dabbing on Scavs and PMC's alike. In *The Forever Winter* I only see quests needing to be completed and simply trying to survive and excursion as the driving force, because at no point are you going to go toe-to-toe with the enemies on the field unless you are in a party with other players.
 
-![Alt Text](/images/hub-thumb.webp)
+![Alt Text](/images/fw-hub-thumb.webp)
 
 *All images have either been taken in-game by me or are sourced from the Fun Dog Studios website*
