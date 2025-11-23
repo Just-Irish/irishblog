@@ -1,7 +1,9 @@
 ---
 title: "My Mods and Projects"
-# date: 2025-11-22
-type: "page"
+date: 2025-11-22
+type: "blank"
+_build:
+  list: never
 ---
 
 <!-- # My Mods & Projects -->

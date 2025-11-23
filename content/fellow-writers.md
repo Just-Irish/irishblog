@@ -1,7 +1,9 @@
 ---
 title: "Fellow Writers and Gaming Blogs"
-# date: 2025-11-22
-type: "page"
+date: 2025-11-22
+type: "blank"
+_build:
+  list: never
 ---
 
 <!-- # Fellow Writers & Gaming Blogs -->
