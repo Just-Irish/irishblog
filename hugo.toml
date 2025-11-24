@@ -3,6 +3,12 @@ languageCode = 'en-us'
 title = 'Insignificant Gamer'
 theme = 'rusty-typewriter'
 
+[params.author]
+  name = "Just_Irish / Sean R."
+  # Optional: add more author info if you want
+  # email = "your@email.com"
+  # bio = "Your bio here"
+
 [params.rtwt]
   sidePane = true
   countPageItems = 20

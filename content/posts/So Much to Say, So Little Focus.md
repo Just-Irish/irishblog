@@ -4,7 +4,7 @@ date: 2025-11-23
 lastmod: 2025-11-23
 draft: true
 featured: false
-tags: ["ramblings", "random"]
+tags: ["ramblings", "random",]
 topics: ["ramblings"]
 author: "Sean R."
 # description: "A quick and dirty rundown of The Forever Winter after its intial release into early access; not eloquent nor professional in the slightest."
