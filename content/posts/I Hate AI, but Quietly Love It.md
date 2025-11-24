@@ -16,7 +16,7 @@ summary: "Sometimes you have to take a laxative and let the cork bust... Here's 
 ---
 
 
-No, no, not in the sense that you are thinking - creep. I'm sorry, some of you weirdos out there are so far removed from normal societal behaviors that normal people not wanting to interact with you is wholly deserving. It's like watching a porn addict try to have a normal relationship - they can't - and they've done that to themselves. Just like you weirdies marrying the AI on your damn phone... I can't begin to comprehend the mental process. This is not my declaration of war against you, not at all; I'll be your friend, I'm just going to let you know you're really fucking weird and that it is wrong and that I'm slightly uncomfortable.
+No, no, not in the sense that you are thinking - creep. I'm sorry, some of you weirdos out there are so far removed from normal societal behaviors that normal people not wanting to interact with you is wholly deserving. It's like watching a meth addict try to be normal in society - they can't - and they've done that to themselves. Just like you weirdies marrying the AI on your damn phone... I can't begin to comprehend the mental process. This is not my declaration of war against you, not at all; I'll be your friend, I'm just going to let you know you're really fucking weird and that it is wrong and that I'm slightly uncomfortable.
 
 Well, enough with that tangent.
 
