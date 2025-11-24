@@ -8,7 +8,7 @@ tags: ["ramblings", "random", "observations", "AI"]
 topics: ["ramblings"]
 author: "Sean R."
 # description: "A quick and dirty rundown of The Forever Winter after its intial release into early access; not eloquent nor professional in the slightest."
-summary: "Sometimes you have to take a laxative and let the cork bust... Here's what's on my mind"
+summary: "I break down my love/hate relationship with AI and how people just suck."
 #cover:
 #  image: "/images/fw-drone-thumb.webp"
 #  alt: "Cover image description"
