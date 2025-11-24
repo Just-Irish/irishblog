@@ -8,7 +8,7 @@ build:
 
 # About Me
 
-Welcome to my humble little space in the absolute vastness that is the internet.
+Hey, I'm Just_Irish (or Sean in the real world) and welcome to my humble little space in the absolute vastness that is the internet.
 
 I grew up in the early '90s, my first console being the awesome [JVC X'Eye](https://sega.fandom.com/wiki/X'Eye) - a Sega Genesis created through a partnership between JVC and Sega - and the first game that I can remember on that console was my beloved [Dune: Battle for Arrakis](https://en.wikipedia.org/wiki/Dune_II).
 
