@@ -1,12 +1,15 @@
+/* Import fonts from Google Fonts */
+@import url('https://fonts.googleapis.com/css2?family=Work+Sans:wght@400;600;700&family=Fira+Sans:wght@400;500;700&family=Open+Sans:wght@400;600;700&family=Ubuntu:wght@400;500;700&family=Ubuntu+Mono:wght@400;500&family=Fira+Mono:wght@400;500&display=swap');
+
 /* variables in root element */
 
 :root {
-  --font-family-main: "Bricolage Grotesque", sans-serif;
-  --font-weigth-main: 500;
-  --font-family-content: "Bricolage Grotesque", serif;
-  --font-weight-content: 500;
-  --font-family-summary: "Bricolage Grotesque", serif;
-  --font-weight-summary: 500;
+  --font-family-main: "Work Sans", "Fira Sans", sans-serif;
+  --font-weight-main: 500;
+  --font-family-content: "Ubuntu", "Fira Sans", "Work Sans", sans-serif;
+  --font-weight-content: 400;
+  --font-family-summary: "Ubuntu", "Fira Sans", "Work Sans", sans-serif;
+  --font-weight-summary: 400;
 
   --dim-color: #88888844;
 
@@ -35,3 +38,22 @@
   --dim-opacity: 50%;
 }
 
+/* Code blocks use Ubuntu Mono */
+code, pre, kbd, samp {
+  font-family: "Ubuntu Mono", "Fira Mono", monospace;
+}
+
+/* Markdown content headers use Open Sans */
+.single h2,
+.single h3,
+.single h4,
+.single h5,
+.single h6,
+main h2,
+main h3,
+main h4,
+main h5,
+main h6 {
+  font-family: "Open Sans", "Fira Sans", sans-serif !important;
+  font-weight: 600 !important;
+}

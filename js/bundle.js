@@ -20,7 +20,7 @@
     const getCachedTheme = () => {
       const cachedTheme = localStorage.getItem("color-scheme");
       const preferDark = window.matchMedia("(prefers-color-scheme: dark)").matches;
-      return cachedTheme || (preferDark ? "dark" : "light");
+      return cachedTheme || (preferDark ? "dark" : "dark");
     };
     document.documentElement.setAttribute("color-scheme", getCachedTheme());
     window.addEventListener("DOMContentLoaded", () => {
