@@ -2,40 +2,40 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Video-Games on Insignificant Gamer</title>
-    <link>https://www.insignificantgamer.blog/tags/video-games/</link>
+    <link>http://localhost:1313/tags/video-games/</link>
     <description>Recent content in Video-Games on Insignificant Gamer</description>
     <generator>Hugo</generator>
     <language>en-us</language>
     <managingEditor>justirish.insignificant@proton.me (Just_Irish / Sean R.)</managingEditor>
     <webMaster>justirish.insignificant@proton.me (Just_Irish / Sean R.)</webMaster>
     <lastBuildDate>Sat, 22 Nov 2025 00:00:00 +0000</lastBuildDate>
-    <atom:link href="https://www.insignificantgamer.blog/tags/video-games/rss.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="http://localhost:1313/tags/video-games/rss.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Are New Developers Caught in the Crosshairs of Today&#39;s Gamers?</title>
-      <link>https://www.insignificantgamer.blog/posts/are-new-developers-caught-in-the-crosshairs-of-todays-gamers/</link>
+      <link>http://localhost:1313/posts/are-new-developers-caught-in-the-crosshairs-of-todays-gamers/</link>
       <pubDate>Tue, 17 Jun 2025 00:00:00 +0000</pubDate><author>justirish.insignificant@proton.me (Just_Irish / Sean R.)</author>
-      <guid>https://www.insignificantgamer.blog/posts/are-new-developers-caught-in-the-crosshairs-of-todays-gamers/</guid>
+      <guid>http://localhost:1313/posts/are-new-developers-caught-in-the-crosshairs-of-todays-gamers/</guid>
       <description>Watching news about the developer Build a Rocket Boy about their apparently horrible game MindsEye got me wondering if us gamers have become too damn critical&amp;hellip; No, no we haven&amp;rsquo;t.</description>
     </item>
     <item>
       <title>Before You Buy- Mechwarrior 5 Clans</title>
-      <link>https://www.insignificantgamer.blog/posts/before-you-buy-mechwarrior-5-clans/</link>
+      <link>http://localhost:1313/posts/before-you-buy-mechwarrior-5-clans/</link>
       <pubDate>Sun, 20 Oct 2024 00:00:00 +0000</pubDate><author>justirish.insignificant@proton.me (Just_Irish / Sean R.)</author>
-      <guid>https://www.insignificantgamer.blog/posts/before-you-buy-mechwarrior-5-clans/</guid>
+      <guid>http://localhost:1313/posts/before-you-buy-mechwarrior-5-clans/</guid>
       <description>A quick and dirty rundown of Mechwarrior 5: Clans after its intial release; not eloquent nor professional in the slightest.</description>
     </item>
     <item>
       <title>What is Minecraft to People</title>
-      <link>https://www.insignificantgamer.blog/posts/what-is-minecraft-to-people/</link>
+      <link>http://localhost:1313/posts/what-is-minecraft-to-people/</link>
       <pubDate>Sat, 12 Oct 2024 00:00:00 +0000</pubDate><author>justirish.insignificant@proton.me (Just_Irish / Sean R.)</author>
-      <guid>https://www.insignificantgamer.blog/posts/what-is-minecraft-to-people/</guid>
+      <guid>http://localhost:1313/posts/what-is-minecraft-to-people/</guid>
       <description>After revisiting Minecraft once again I had some thoughts about the growth and major changes that Minecraft had over the years that, in my opinion, were to the detriment to the game.</description>
     </item>
     <item>
       <title>Before You Buy- The Forever Winter</title>
-      <link>https://www.insignificantgamer.blog/posts/before-you-buy-forever-winter/</link>
+      <link>http://localhost:1313/posts/before-you-buy-forever-winter/</link>
       <pubDate>Sun, 06 Oct 2024 00:00:00 +0000</pubDate><author>justirish.insignificant@proton.me (Just_Irish / Sean R.)</author>
-      <guid>https://www.insignificantgamer.blog/posts/before-you-buy-forever-winter/</guid>
+      <guid>http://localhost:1313/posts/before-you-buy-forever-winter/</guid>
       <description>A quick and dirty rundown of The Forever Winter after its intial release into early access; not eloquent nor professional in the slightest.</description>
     </item>
   </channel>

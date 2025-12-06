@@ -2,82 +2,82 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Home on Insignificant Gamer</title>
-    <link>https://www.insignificantgamer.blog/</link>
+    <link>http://localhost:1313/</link>
     <description>Recent content in Home on Insignificant Gamer</description>
     <generator>Hugo</generator>
     <language>en-us</language>
     <managingEditor>justirish.insignificant@proton.me (Just_Irish / Sean R.)</managingEditor>
     <webMaster>justirish.insignificant@proton.me (Just_Irish / Sean R.)</webMaster>
     <lastBuildDate>Sun, 23 Nov 2025 00:00:00 +0000</lastBuildDate>
-    <atom:link href="https://www.insignificantgamer.blog/rss.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="http://localhost:1313/rss.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>I Hate AI, but Quietly Love It</title>
-      <link>https://www.insignificantgamer.blog/posts/i-hate-ai-but-quietly-love-it/</link>
+      <link>http://localhost:1313/posts/i-hate-ai-but-quietly-love-it/</link>
       <pubDate>Sun, 23 Nov 2025 00:00:00 +0000</pubDate><author>justirish.insignificant@proton.me (Just_Irish / Sean R.)</author>
-      <guid>https://www.insignificantgamer.blog/posts/i-hate-ai-but-quietly-love-it/</guid>
+      <guid>http://localhost:1313/posts/i-hate-ai-but-quietly-love-it/</guid>
       <description>I break down my love/hate relationship with AI and how people just suck.</description>
     </item>
     <item>
       <title>Search</title>
-      <link>https://www.insignificantgamer.blog/search/</link>
+      <link>http://localhost:1313/search/</link>
       <pubDate>Sat, 22 Nov 2025 00:00:00 +0000</pubDate><author>justirish.insignificant@proton.me (Just_Irish / Sean R.)</author>
-      <guid>https://www.insignificantgamer.blog/search/</guid>
+      <guid>http://localhost:1313/search/</guid>
       <description>&lt;h1 id=&#34;search&#34;&gt;Search&lt;/h1&gt;&#xA;&lt;p&gt;Search through all posts on the site.&lt;/p&gt;&#xA;&lt;p class=&#34;hidden&#34;&gt;It&amp;#39;s necessary to enable Javascript&lt;/p&gt;&#xA;&lt;p class=&#34;search-loading hidden&#34;&gt;Loading...&lt;/p&gt;&#xA;&#xA;&lt;form id=&#34;search-form&#34; class=&#34;search-form&#34; action=&#34;#&#34; method=&#34;post&#34; accept-charset=&#34;UTF-8&#34; role=&#34;search&#34;&gt;&#xA;  &lt;div class=&#34;search-bar&#34;&gt;&#xA;    &lt;label for=&#34;query&#34; class=&#34;hidden&#34;&gt;&lt;/label&gt;&#xA;    &lt;input id=&#34;query&#34; class=&#34;search-text&#34; type=&#34;text&#34; placeholder=&#34;Search...&#34;/&gt;&#xA;  &lt;/div&gt;&#xA;&lt;/form&gt;&#xA;&#xA;&lt;div class=&#34;search-results&#34;&gt;&lt;/div&gt;&#xA;&#xA;&lt;template&gt;&#xA;  &lt;article class=&#34;search-result list-view&#34;&gt;&#xA;    &lt;header&gt;&#xA;      &lt;h2 class=&#34;title&#34;&gt;&lt;a href=&#34;#&#34;&gt;&lt;/a&gt;&lt;/h2&gt;&#xA;      &lt;div class=&#34;submitted&#34;&gt;&#xA;        &lt;time class=&#34;created-date&#34;&gt;&lt;/time&gt;&#xA;      &lt;/div&gt;&#xA;    &lt;/header&gt;&#xA;    &lt;p class=&#34;content&#34;&gt;&lt;/p&gt;&#xA;  &lt;/article&gt;&#xA;&lt;/template&gt;</description>
     </item>
     <item>
       <title>Are New Developers Caught in the Crosshairs of Today&#39;s Gamers?</title>
-      <link>https://www.insignificantgamer.blog/posts/are-new-developers-caught-in-the-crosshairs-of-todays-gamers/</link>
+      <link>http://localhost:1313/posts/are-new-developers-caught-in-the-crosshairs-of-todays-gamers/</link>
       <pubDate>Tue, 17 Jun 2025 00:00:00 +0000</pubDate><author>justirish.insignificant@proton.me (Just_Irish / Sean R.)</author>
-      <guid>https://www.insignificantgamer.blog/posts/are-new-developers-caught-in-the-crosshairs-of-todays-gamers/</guid>
+      <guid>http://localhost:1313/posts/are-new-developers-caught-in-the-crosshairs-of-todays-gamers/</guid>
       <description>Watching news about the developer Build a Rocket Boy about their apparently horrible game MindsEye got me wondering if us gamers have become too damn critical&amp;hellip; No, no we haven&amp;rsquo;t.</description>
     </item>
     <item>
       <title>Final Space- A Rough Gem in a Sea of Mediocrity</title>
-      <link>https://www.insignificantgamer.blog/posts/final-space-a-rough-gem-in-a-sea-of-mediocrity/</link>
+      <link>http://localhost:1313/posts/final-space-a-rough-gem-in-a-sea-of-mediocrity/</link>
       <pubDate>Sun, 15 Dec 2024 00:00:00 +0000</pubDate><author>justirish.insignificant@proton.me (Just_Irish / Sean R.)</author>
-      <guid>https://www.insignificantgamer.blog/posts/final-space-a-rough-gem-in-a-sea-of-mediocrity/</guid>
+      <guid>http://localhost:1313/posts/final-space-a-rough-gem-in-a-sea-of-mediocrity/</guid>
       <description>After finishing the series I had to come share my thoughts and criticisms of a fantastic show that I believe more people need to see.</description>
     </item>
     <item>
       <title>Modernity is Safe, but Very Boring</title>
-      <link>https://www.insignificantgamer.blog/posts/modernity-is-safe-but-very-boring/</link>
+      <link>http://localhost:1313/posts/modernity-is-safe-but-very-boring/</link>
       <pubDate>Thu, 07 Nov 2024 00:00:00 +0000</pubDate><author>justirish.insignificant@proton.me (Just_Irish / Sean R.)</author>
-      <guid>https://www.insignificantgamer.blog/posts/modernity-is-safe-but-very-boring/</guid>
+      <guid>http://localhost:1313/posts/modernity-is-safe-but-very-boring/</guid>
       <description>I cover the things that I see and witness over time that seem to change from having its own identity to one that is almost unmistakably the same as another.</description>
     </item>
     <item>
       <title>Out of Time or Just Getting Old</title>
-      <link>https://www.insignificantgamer.blog/posts/out-of-time-or-just-getting-old/</link>
+      <link>http://localhost:1313/posts/out-of-time-or-just-getting-old/</link>
       <pubDate>Wed, 30 Oct 2024 00:00:00 +0000</pubDate><author>justirish.insignificant@proton.me (Just_Irish / Sean R.)</author>
-      <guid>https://www.insignificantgamer.blog/posts/out-of-time-or-just-getting-old/</guid>
+      <guid>http://localhost:1313/posts/out-of-time-or-just-getting-old/</guid>
       <description>I briefly cover some thoughts of mine about hobbies and its association with aging.</description>
     </item>
     <item>
       <title>Before You Buy- Mechwarrior 5 Clans</title>
-      <link>https://www.insignificantgamer.blog/posts/before-you-buy-mechwarrior-5-clans/</link>
+      <link>http://localhost:1313/posts/before-you-buy-mechwarrior-5-clans/</link>
       <pubDate>Sun, 20 Oct 2024 00:00:00 +0000</pubDate><author>justirish.insignificant@proton.me (Just_Irish / Sean R.)</author>
-      <guid>https://www.insignificantgamer.blog/posts/before-you-buy-mechwarrior-5-clans/</guid>
+      <guid>http://localhost:1313/posts/before-you-buy-mechwarrior-5-clans/</guid>
       <description>A quick and dirty rundown of Mechwarrior 5: Clans after its intial release; not eloquent nor professional in the slightest.</description>
     </item>
     <item>
       <title>What is Minecraft to People</title>
-      <link>https://www.insignificantgamer.blog/posts/what-is-minecraft-to-people/</link>
+      <link>http://localhost:1313/posts/what-is-minecraft-to-people/</link>
       <pubDate>Sat, 12 Oct 2024 00:00:00 +0000</pubDate><author>justirish.insignificant@proton.me (Just_Irish / Sean R.)</author>
-      <guid>https://www.insignificantgamer.blog/posts/what-is-minecraft-to-people/</guid>
+      <guid>http://localhost:1313/posts/what-is-minecraft-to-people/</guid>
       <description>After revisiting Minecraft once again I had some thoughts about the growth and major changes that Minecraft had over the years that, in my opinion, were to the detriment to the game.</description>
     </item>
     <item>
       <title>Before You Buy- The Forever Winter</title>
-      <link>https://www.insignificantgamer.blog/posts/before-you-buy-forever-winter/</link>
+      <link>http://localhost:1313/posts/before-you-buy-forever-winter/</link>
       <pubDate>Sun, 06 Oct 2024 00:00:00 +0000</pubDate><author>justirish.insignificant@proton.me (Just_Irish / Sean R.)</author>
-      <guid>https://www.insignificantgamer.blog/posts/before-you-buy-forever-winter/</guid>
+      <guid>http://localhost:1313/posts/before-you-buy-forever-winter/</guid>
       <description>A quick and dirty rundown of The Forever Winter after its intial release into early access; not eloquent nor professional in the slightest.</description>
     </item>
     <item>
       <title>Subscribe to the Newsletter</title>
-      <link>https://www.insignificantgamer.blog/newsletter/</link>
+      <link>http://localhost:1313/newsletter/</link>
       <pubDate>Wed, 01 Jan 2020 00:00:00 +0000</pubDate><author>justirish.insignificant@proton.me (Just_Irish / Sean R.)</author>
-      <guid>https://www.insignificantgamer.blog/newsletter/</guid>
+      <guid>http://localhost:1313/newsletter/</guid>
       <description>&lt;h1 id=&#34;join-the-insignificant-gamer-newsletter&#34;&gt;Join the Insignificant Gamer Newsletter&lt;/h1&gt;&#xA;&lt;p&gt;Get new posts delivered directly to your inbox.&lt;/p&gt;&#xA;&lt;div id=&#34;listmonk-subscribe&#34;&gt;&#xA;  &lt;form action=&#34;https://your-listmonk-domain.com/subscription/form&#34; method=&#34;POST&#34;&gt;&#xA;    &lt;input type=&#34;hidden&#34; name=&#34;nonce&#34; /&gt;&#xA;&lt;pre&gt;&lt;code&gt;&amp;lt;div style=&amp;quot;margin-bottom: 1rem;&amp;quot;&amp;gt;&#xA;  &amp;lt;label for=&amp;quot;email&amp;quot; style=&amp;quot;display: block; margin-bottom: 0.5rem; font-weight: 600;&amp;quot;&amp;gt;Email Address&amp;lt;/label&amp;gt;&#xA;  &amp;lt;input &#xA;    type=&amp;quot;email&amp;quot; &#xA;    id=&amp;quot;email&amp;quot; &#xA;    name=&amp;quot;email&amp;quot; &#xA;    required &#xA;    placeholder=&amp;quot;you@example.com&amp;quot;&#xA;    style=&amp;quot;width: 100%; max-width: 400px; padding: 0.5rem; border: 1px solid var(--border-color); border-radius: 4px; background: var(--background-color); color: var(--text-color);&amp;quot;&#xA;  /&amp;gt;&#xA;&amp;lt;/div&amp;gt;&#xA;&#xA;&amp;lt;div style=&amp;quot;margin-bottom: 1rem;&amp;quot;&amp;gt;&#xA;  &amp;lt;label for=&amp;quot;name&amp;quot; style=&amp;quot;display: block; margin-bottom: 0.5rem; font-weight: 600;&amp;quot;&amp;gt;Name (Optional)&amp;lt;/label&amp;gt;&#xA;  &amp;lt;input &#xA;    type=&amp;quot;text&amp;quot; &#xA;    id=&amp;quot;name&amp;quot; &#xA;    name=&amp;quot;name&amp;quot; &#xA;    placeholder=&amp;quot;Your Name&amp;quot;&#xA;    style=&amp;quot;width: 100%; max-width: 400px; padding: 0.5rem; border: 1px solid var(--border-color); border-radius: 4px; background: var(--background-color); color: var(--text-color);&amp;quot;&#xA;  /&amp;gt;&#xA;&amp;lt;/div&amp;gt;&#xA;&#xA;&amp;lt;input type=&amp;quot;hidden&amp;quot; name=&amp;quot;l&amp;quot; value=&amp;quot;9f2c1e53-87fc-4321-8176-ae5d52501c0d&amp;quot; /&amp;gt;&#xA;&#xA;&amp;lt;button &#xA;  type=&amp;quot;submit&amp;quot;&#xA;  style=&amp;quot;padding: 0.75rem 2rem; background: var(--primary-color); color: white; border: none; border-radius: 4px; font-weight: 600; cursor: pointer; font-size: 1rem;&amp;quot;&#xA;&amp;gt;&#xA;  Subscribe&#xA;&amp;lt;/button&amp;gt;&#xA;&lt;/code&gt;&lt;/pre&gt;&#xA;  &lt;/form&gt;&#xA;&lt;/div&gt;&#xA;&lt;p style=&#34;margin-top: 2rem; font-size: 0.9rem; color: var(--text-muted);&#34;&gt;&#xA;  Your email will only be used to send blog updates. You can unsubscribe at any time.&#xA;&lt;/p&gt;</description>
     </item>
   </channel>

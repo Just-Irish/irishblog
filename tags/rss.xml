@@ -2,166 +2,166 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Tags on Insignificant Gamer</title>
-    <link>https://www.insignificantgamer.blog/tags/</link>
+    <link>http://localhost:1313/tags/</link>
     <description>Recent content in Tags on Insignificant Gamer</description>
     <generator>Hugo</generator>
     <language>en-us</language>
     <managingEditor>justirish.insignificant@proton.me (Just_Irish / Sean R.)</managingEditor>
     <webMaster>justirish.insignificant@proton.me (Just_Irish / Sean R.)</webMaster>
     <lastBuildDate>Sun, 23 Nov 2025 00:00:00 +0000</lastBuildDate>
-    <atom:link href="https://www.insignificantgamer.blog/tags/rss.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="http://localhost:1313/tags/rss.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>AI</title>
-      <link>https://www.insignificantgamer.blog/tags/ai/</link>
+      <link>http://localhost:1313/tags/ai/</link>
       <pubDate>Sun, 23 Nov 2025 00:00:00 +0000</pubDate><author>justirish.insignificant@proton.me (Just_Irish / Sean R.)</author>
-      <guid>https://www.insignificantgamer.blog/tags/ai/</guid>
+      <guid>http://localhost:1313/tags/ai/</guid>
       <description></description>
     </item>
     <item>
       <title>Observations</title>
-      <link>https://www.insignificantgamer.blog/tags/observations/</link>
+      <link>http://localhost:1313/tags/observations/</link>
       <pubDate>Sun, 23 Nov 2025 00:00:00 +0000</pubDate><author>justirish.insignificant@proton.me (Just_Irish / Sean R.)</author>
-      <guid>https://www.insignificantgamer.blog/tags/observations/</guid>
+      <guid>http://localhost:1313/tags/observations/</guid>
       <description></description>
     </item>
     <item>
       <title>Ramblings</title>
-      <link>https://www.insignificantgamer.blog/tags/ramblings/</link>
+      <link>http://localhost:1313/tags/ramblings/</link>
       <pubDate>Sun, 23 Nov 2025 00:00:00 +0000</pubDate><author>justirish.insignificant@proton.me (Just_Irish / Sean R.)</author>
-      <guid>https://www.insignificantgamer.blog/tags/ramblings/</guid>
+      <guid>http://localhost:1313/tags/ramblings/</guid>
       <description></description>
     </item>
     <item>
       <title>Random</title>
-      <link>https://www.insignificantgamer.blog/tags/random/</link>
+      <link>http://localhost:1313/tags/random/</link>
       <pubDate>Sun, 23 Nov 2025 00:00:00 +0000</pubDate><author>justirish.insignificant@proton.me (Just_Irish / Sean R.)</author>
-      <guid>https://www.insignificantgamer.blog/tags/random/</guid>
+      <guid>http://localhost:1313/tags/random/</guid>
       <description></description>
     </item>
     <item>
       <title>Deep-Thoughts</title>
-      <link>https://www.insignificantgamer.blog/tags/deep-thoughts/</link>
+      <link>http://localhost:1313/tags/deep-thoughts/</link>
       <pubDate>Tue, 17 Jun 2025 00:00:00 +0000</pubDate><author>justirish.insignificant@proton.me (Just_Irish / Sean R.)</author>
-      <guid>https://www.insignificantgamer.blog/tags/deep-thoughts/</guid>
+      <guid>http://localhost:1313/tags/deep-thoughts/</guid>
       <description></description>
     </item>
     <item>
       <title>Gaming</title>
-      <link>https://www.insignificantgamer.blog/tags/gaming/</link>
+      <link>http://localhost:1313/tags/gaming/</link>
       <pubDate>Tue, 17 Jun 2025 00:00:00 +0000</pubDate><author>justirish.insignificant@proton.me (Just_Irish / Sean R.)</author>
-      <guid>https://www.insignificantgamer.blog/tags/gaming/</guid>
+      <guid>http://localhost:1313/tags/gaming/</guid>
       <description></description>
     </item>
     <item>
       <title>Video-Games</title>
-      <link>https://www.insignificantgamer.blog/tags/video-games/</link>
+      <link>http://localhost:1313/tags/video-games/</link>
       <pubDate>Tue, 17 Jun 2025 00:00:00 +0000</pubDate><author>justirish.insignificant@proton.me (Just_Irish / Sean R.)</author>
-      <guid>https://www.insignificantgamer.blog/tags/video-games/</guid>
+      <guid>http://localhost:1313/tags/video-games/</guid>
       <description></description>
     </item>
     <item>
       <title>Cartoon</title>
-      <link>https://www.insignificantgamer.blog/tags/cartoon/</link>
+      <link>http://localhost:1313/tags/cartoon/</link>
       <pubDate>Sun, 15 Dec 2024 00:00:00 +0000</pubDate><author>justirish.insignificant@proton.me (Just_Irish / Sean R.)</author>
-      <guid>https://www.insignificantgamer.blog/tags/cartoon/</guid>
+      <guid>http://localhost:1313/tags/cartoon/</guid>
       <description></description>
     </item>
     <item>
       <title>Final-Space</title>
-      <link>https://www.insignificantgamer.blog/tags/final-space/</link>
+      <link>http://localhost:1313/tags/final-space/</link>
       <pubDate>Sun, 15 Dec 2024 00:00:00 +0000</pubDate><author>justirish.insignificant@proton.me (Just_Irish / Sean R.)</author>
-      <guid>https://www.insignificantgamer.blog/tags/final-space/</guid>
+      <guid>http://localhost:1313/tags/final-space/</guid>
       <description></description>
     </item>
     <item>
       <title>Good-Review</title>
-      <link>https://www.insignificantgamer.blog/tags/good-review/</link>
+      <link>http://localhost:1313/tags/good-review/</link>
       <pubDate>Sun, 15 Dec 2024 00:00:00 +0000</pubDate><author>justirish.insignificant@proton.me (Just_Irish / Sean R.)</author>
-      <guid>https://www.insignificantgamer.blog/tags/good-review/</guid>
+      <guid>http://localhost:1313/tags/good-review/</guid>
       <description></description>
     </item>
     <item>
       <title>Review</title>
-      <link>https://www.insignificantgamer.blog/tags/review/</link>
+      <link>http://localhost:1313/tags/review/</link>
       <pubDate>Sun, 15 Dec 2024 00:00:00 +0000</pubDate><author>justirish.insignificant@proton.me (Just_Irish / Sean R.)</author>
-      <guid>https://www.insignificantgamer.blog/tags/review/</guid>
+      <guid>http://localhost:1313/tags/review/</guid>
       <description></description>
     </item>
     <item>
       <title>Show</title>
-      <link>https://www.insignificantgamer.blog/tags/show/</link>
+      <link>http://localhost:1313/tags/show/</link>
       <pubDate>Sun, 15 Dec 2024 00:00:00 +0000</pubDate><author>justirish.insignificant@proton.me (Just_Irish / Sean R.)</author>
-      <guid>https://www.insignificantgamer.blog/tags/show/</guid>
+      <guid>http://localhost:1313/tags/show/</guid>
       <description></description>
     </item>
     <item>
       <title>Tv</title>
-      <link>https://www.insignificantgamer.blog/tags/tv/</link>
+      <link>http://localhost:1313/tags/tv/</link>
       <pubDate>Sun, 15 Dec 2024 00:00:00 +0000</pubDate><author>justirish.insignificant@proton.me (Just_Irish / Sean R.)</author>
-      <guid>https://www.insignificantgamer.blog/tags/tv/</guid>
+      <guid>http://localhost:1313/tags/tv/</guid>
       <description></description>
     </item>
     <item>
       <title>Battletech</title>
-      <link>https://www.insignificantgamer.blog/tags/battletech/</link>
+      <link>http://localhost:1313/tags/battletech/</link>
       <pubDate>Sun, 20 Oct 2024 00:00:00 +0000</pubDate><author>justirish.insignificant@proton.me (Just_Irish / Sean R.)</author>
-      <guid>https://www.insignificantgamer.blog/tags/battletech/</guid>
+      <guid>http://localhost:1313/tags/battletech/</guid>
       <description></description>
     </item>
     <item>
       <title>Initial-Review</title>
-      <link>https://www.insignificantgamer.blog/tags/initial-review/</link>
+      <link>http://localhost:1313/tags/initial-review/</link>
       <pubDate>Sun, 20 Oct 2024 00:00:00 +0000</pubDate><author>justirish.insignificant@proton.me (Just_Irish / Sean R.)</author>
-      <guid>https://www.insignificantgamer.blog/tags/initial-review/</guid>
+      <guid>http://localhost:1313/tags/initial-review/</guid>
       <description></description>
     </item>
     <item>
       <title>Mechwarrior</title>
-      <link>https://www.insignificantgamer.blog/tags/mechwarrior/</link>
+      <link>http://localhost:1313/tags/mechwarrior/</link>
       <pubDate>Sun, 20 Oct 2024 00:00:00 +0000</pubDate><author>justirish.insignificant@proton.me (Just_Irish / Sean R.)</author>
-      <guid>https://www.insignificantgamer.blog/tags/mechwarrior/</guid>
+      <guid>http://localhost:1313/tags/mechwarrior/</guid>
       <description></description>
     </item>
     <item>
       <title>Critique</title>
-      <link>https://www.insignificantgamer.blog/tags/critique/</link>
+      <link>http://localhost:1313/tags/critique/</link>
       <pubDate>Sat, 12 Oct 2024 00:00:00 +0000</pubDate><author>justirish.insignificant@proton.me (Just_Irish / Sean R.)</author>
-      <guid>https://www.insignificantgamer.blog/tags/critique/</guid>
+      <guid>http://localhost:1313/tags/critique/</guid>
       <description></description>
     </item>
     <item>
       <title>Minecraft</title>
-      <link>https://www.insignificantgamer.blog/tags/minecraft/</link>
+      <link>http://localhost:1313/tags/minecraft/</link>
       <pubDate>Sat, 12 Oct 2024 00:00:00 +0000</pubDate><author>justirish.insignificant@proton.me (Just_Irish / Sean R.)</author>
-      <guid>https://www.insignificantgamer.blog/tags/minecraft/</guid>
+      <guid>http://localhost:1313/tags/minecraft/</guid>
       <description></description>
     </item>
     <item>
       <title>Opinion</title>
-      <link>https://www.insignificantgamer.blog/tags/opinion/</link>
+      <link>http://localhost:1313/tags/opinion/</link>
       <pubDate>Sat, 12 Oct 2024 00:00:00 +0000</pubDate><author>justirish.insignificant@proton.me (Just_Irish / Sean R.)</author>
-      <guid>https://www.insignificantgamer.blog/tags/opinion/</guid>
+      <guid>http://localhost:1313/tags/opinion/</guid>
       <description></description>
     </item>
     <item>
       <title>Early-Access-Review</title>
-      <link>https://www.insignificantgamer.blog/tags/early-access-review/</link>
+      <link>http://localhost:1313/tags/early-access-review/</link>
       <pubDate>Sun, 06 Oct 2024 00:00:00 +0000</pubDate><author>justirish.insignificant@proton.me (Just_Irish / Sean R.)</author>
-      <guid>https://www.insignificantgamer.blog/tags/early-access-review/</guid>
+      <guid>http://localhost:1313/tags/early-access-review/</guid>
       <description></description>
     </item>
     <item>
       <title>Grimdark</title>
-      <link>https://www.insignificantgamer.blog/tags/grimdark/</link>
+      <link>http://localhost:1313/tags/grimdark/</link>
       <pubDate>Sun, 06 Oct 2024 00:00:00 +0000</pubDate><author>justirish.insignificant@proton.me (Just_Irish / Sean R.)</author>
-      <guid>https://www.insignificantgamer.blog/tags/grimdark/</guid>
+      <guid>http://localhost:1313/tags/grimdark/</guid>
       <description></description>
     </item>
     <item>
       <title>The-Forever-Winter</title>
-      <link>https://www.insignificantgamer.blog/tags/the-forever-winter/</link>
+      <link>http://localhost:1313/tags/the-forever-winter/</link>
       <pubDate>Sun, 06 Oct 2024 00:00:00 +0000</pubDate><author>justirish.insignificant@proton.me (Just_Irish / Sean R.)</author>
-      <guid>https://www.insignificantgamer.blog/tags/the-forever-winter/</guid>
+      <guid>http://localhost:1313/tags/the-forever-winter/</guid>
       <description></description>
     </item>
   </channel>

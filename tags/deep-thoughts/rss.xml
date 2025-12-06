@@ -2,33 +2,33 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Deep-Thoughts on Insignificant Gamer</title>
-    <link>https://www.insignificantgamer.blog/tags/deep-thoughts/</link>
+    <link>http://localhost:1313/tags/deep-thoughts/</link>
     <description>Recent content in Deep-Thoughts on Insignificant Gamer</description>
     <generator>Hugo</generator>
     <language>en-us</language>
     <managingEditor>justirish.insignificant@proton.me (Just_Irish / Sean R.)</managingEditor>
     <webMaster>justirish.insignificant@proton.me (Just_Irish / Sean R.)</webMaster>
     <lastBuildDate>Sat, 22 Nov 2025 00:00:00 +0000</lastBuildDate>
-    <atom:link href="https://www.insignificantgamer.blog/tags/deep-thoughts/rss.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="http://localhost:1313/tags/deep-thoughts/rss.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Are New Developers Caught in the Crosshairs of Today&#39;s Gamers?</title>
-      <link>https://www.insignificantgamer.blog/posts/are-new-developers-caught-in-the-crosshairs-of-todays-gamers/</link>
+      <link>http://localhost:1313/posts/are-new-developers-caught-in-the-crosshairs-of-todays-gamers/</link>
       <pubDate>Tue, 17 Jun 2025 00:00:00 +0000</pubDate><author>justirish.insignificant@proton.me (Just_Irish / Sean R.)</author>
-      <guid>https://www.insignificantgamer.blog/posts/are-new-developers-caught-in-the-crosshairs-of-todays-gamers/</guid>
+      <guid>http://localhost:1313/posts/are-new-developers-caught-in-the-crosshairs-of-todays-gamers/</guid>
       <description>Watching news about the developer Build a Rocket Boy about their apparently horrible game MindsEye got me wondering if us gamers have become too damn critical&amp;hellip; No, no we haven&amp;rsquo;t.</description>
     </item>
     <item>
       <title>Modernity is Safe, but Very Boring</title>
-      <link>https://www.insignificantgamer.blog/posts/modernity-is-safe-but-very-boring/</link>
+      <link>http://localhost:1313/posts/modernity-is-safe-but-very-boring/</link>
       <pubDate>Thu, 07 Nov 2024 00:00:00 +0000</pubDate><author>justirish.insignificant@proton.me (Just_Irish / Sean R.)</author>
-      <guid>https://www.insignificantgamer.blog/posts/modernity-is-safe-but-very-boring/</guid>
+      <guid>http://localhost:1313/posts/modernity-is-safe-but-very-boring/</guid>
       <description>I cover the things that I see and witness over time that seem to change from having its own identity to one that is almost unmistakably the same as another.</description>
     </item>
     <item>
       <title>Out of Time or Just Getting Old</title>
-      <link>https://www.insignificantgamer.blog/posts/out-of-time-or-just-getting-old/</link>
+      <link>http://localhost:1313/posts/out-of-time-or-just-getting-old/</link>
       <pubDate>Wed, 30 Oct 2024 00:00:00 +0000</pubDate><author>justirish.insignificant@proton.me (Just_Irish / Sean R.)</author>
-      <guid>https://www.insignificantgamer.blog/posts/out-of-time-or-just-getting-old/</guid>
+      <guid>http://localhost:1313/posts/out-of-time-or-just-getting-old/</guid>
       <description>I briefly cover some thoughts of mine about hobbies and its association with aging.</description>
     </item>
   </channel>
