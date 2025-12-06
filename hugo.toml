@@ -69,11 +69,6 @@ name = 'My Mods'
 pageRef = '/my-mods'
 weight = 6
 
-[[menus.main]]
-name = 'RSS'
-url = '/index.xml'
-weight = 7
-
 #[[menus.main]]
 #name = 'RSS'
 #url = '/index.xml'
