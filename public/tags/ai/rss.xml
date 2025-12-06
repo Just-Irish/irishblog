@@ -2,19 +2,19 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>AI on Insignificant Gamer</title>
-    <link>https://www.insignificantgamer.blog/tags/ai/</link>
+    <link>http://localhost:1313/tags/ai/</link>
     <description>Recent content in AI on Insignificant Gamer</description>
     <generator>Hugo</generator>
     <language>en-us</language>
     <managingEditor>justirish.insignificant@proton.me (Just_Irish / Sean R.)</managingEditor>
     <webMaster>justirish.insignificant@proton.me (Just_Irish / Sean R.)</webMaster>
     <lastBuildDate>Sun, 23 Nov 2025 00:00:00 +0000</lastBuildDate>
-    <atom:link href="https://www.insignificantgamer.blog/tags/ai/rss.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="http://localhost:1313/tags/ai/rss.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>I Hate AI, but Quietly Love It</title>
-      <link>https://www.insignificantgamer.blog/posts/i-hate-ai-but-quietly-love-it/</link>
+      <link>http://localhost:1313/posts/i-hate-ai-but-quietly-love-it/</link>
       <pubDate>Sun, 23 Nov 2025 00:00:00 +0000</pubDate><author>justirish.insignificant@proton.me (Just_Irish / Sean R.)</author>
-      <guid>https://www.insignificantgamer.blog/posts/i-hate-ai-but-quietly-love-it/</guid>
+      <guid>http://localhost:1313/posts/i-hate-ai-but-quietly-love-it/</guid>
       <description>I break down my love/hate relationship with AI and how people just suck.</description>
     </item>
   </channel>

@@ -8,9 +8,7 @@ theme = 'rusty-typewriter'
 
 [params.author]
   name = "Just_Irish / Sean R."
-  # Optional: add more author info if you want
   email = "justirish.insignificant@proton.me"
-  # bio = "Your bio here"
 
 [params.rtwt]
   sidePane = true
@@ -69,49 +67,38 @@ name = 'My Mods'
 pageRef = '/my-mods'
 weight = 6
 
-#[[menus.main]]
-#name = 'RSS'
-#url = '/index.xml'
-#weight = 10
-
-# Build search index
-[outputFormats]
- [outputFormats.SearchIndex]
-  mediaType = "application/json"
-  baseName = "searchindex"
-  isPlainText = true
-  notAlternative = true
-
-# [mediaTypes]
-#  [mediaTypes."application/json"]
-#   suffixes = ["json"]
-
-# [outputs]
-#  home = ["HTML","RSS", "SearchIndex"]
-
-# This allows html coding to work on the website
- [markup]
-  [markup.goldmark]
-    [markup.goldmark.renderer]
-      unsafe = true
-
-# This is in regards to RSS
-[services]
-  [services.rss]
-    limit = 100
-
+# Media types - MERGED SECTION
 [mediaTypes]
+  [mediaTypes."application/json"]
+    suffixes = ["json"]
   [mediaTypes."application/rss+xml"]
     suffixes = ["xml"]
 
+# Output formats - MERGED SECTION
 [outputFormats]
+  [outputFormats.SearchIndex]
+    mediaType = "application/json"
+    baseName = "searchindex"
+    isPlainText = true
+    notAlternative = true
   [outputFormats.RSS]
     mediaType = "application/rss+xml"
     baseName = "rss"
     isPlainText = false
     rel = "alternate"
-    
+
+# Outputs - MERGED SECTION
 [outputs]
-  home = ["HTML", "RSS"]
+  home = ["HTML", "RSS", "SearchIndex"]
   section = ["HTML", "RSS"]
-# End of RSS
+
+# Allow HTML in markdown
+[markup]
+  [markup.goldmark]
+    [markup.goldmark.renderer]
+      unsafe = true
+
+# RSS configuration
+[services]
+  [services.rss]
+    limit = 100

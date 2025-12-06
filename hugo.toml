@@ -8,7 +8,9 @@ theme = 'rusty-typewriter'
 
 [params.author]
   name = "Just_Irish / Sean R."
+  # Optional: add more author info if you want
   email = "justirish.insignificant@proton.me"
+  # bio = "Your bio here"
 
 [params.rtwt]
   sidePane = true
@@ -67,38 +69,49 @@ name = 'My Mods'
 pageRef = '/my-mods'
 weight = 6
 
-# Media types - MERGED SECTION
-[mediaTypes]
-  [mediaTypes."application/json"]
-    suffixes = ["json"]
-  [mediaTypes."application/rss+xml"]
-    suffixes = ["xml"]
+#[[menus.main]]
+#name = 'RSS'
+#url = '/index.xml'
+#weight = 10
 
-# Output formats - MERGED SECTION
+# Build search index
 [outputFormats]
-  [outputFormats.SearchIndex]
-    mediaType = "application/json"
-    baseName = "searchindex"
-    isPlainText = true
-    notAlternative = true
-  [outputFormats.RSS]
-    mediaType = "application/rss+xml"
-    baseName = "rss"
-    isPlainText = false
-    rel = "alternate"
+ [outputFormats.SearchIndex]
+  mediaType = "application/json"
+  baseName = "searchindex"
+  isPlainText = true
+  notAlternative = true
 
-# Outputs - MERGED SECTION
-[outputs]
-  home = ["HTML", "RSS", "SearchIndex"]
-  section = ["HTML", "RSS"]
+# [mediaTypes]
+#  [mediaTypes."application/json"]
+#   suffixes = ["json"]
 
-# Allow HTML in markdown
-[markup]
+# [outputs]
+#  home = ["HTML","RSS", "SearchIndex"]
+
+# This allows html coding to work on the website
+ [markup]
   [markup.goldmark]
     [markup.goldmark.renderer]
       unsafe = true
 
-# RSS configuration
-[services]
-  [services.rss]
-    limit = 100
+# This is in regards to RSS
+# [services]
+#   [services.rss]
+#     limit = 100
+
+# [mediaTypes]
+#   [mediaTypes."application/rss+xml"]
+#     suffixes = ["xml"]
+
+# [outputFormats]
+#   [outputFormats.RSS]
+#     mediaType = "application/rss+xml"
+#     baseName = "rss"
+#     isPlainText = false
+#     rel = "alternate"
+    
+# [outputs]
+#   home = ["HTML", "RSS"]
+#   section = ["HTML", "RSS"]
+# End of RSS
