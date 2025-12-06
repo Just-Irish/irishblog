@@ -1,0 +1,12 @@
+&lt;?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Insignificant Gamer</title>
+    <link>https://www.insignificantgamer.blog/categories/</link>
+    <description>Musings of an Insignificant Lifetime Gamer</description>
+    <language>en</language>
+    <managingEditor>justirish.insignificant@proton.me (Just_Irish / Sean R.)</managingEditor>
+    <webMaster>justirish.insignificant@proton.me (Just_Irish / Sean R.)</webMaster>
+    <atom:link href="https://www.insignificantgamer.blog/categories/" rel="self" type="application/rss+xml" />
+  </channel>
+</rss>

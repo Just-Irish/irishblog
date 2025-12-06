@@ -1,0 +1,55 @@
+{{- $pctx := . -}}
+{{- if .IsHome -}}{{ $pctx = .Site }}{{- end -}}
+{{- $pages := slice -}}
+{{- if or $.IsHome $.IsSection -}}
+{{- $pages = $pctx.RegularPages -}}
+{{- else -}}
+{{- $pages = $pctx.Pages -}}
+{{- end -}}
+{{- $limit := .Site.Config.Services.RSS.Limit -}}
+{{- if ge $limit 1 -}}
+{{- $pages = $pages | first $limit -}}
+{{- end -}}
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>{{ .Site.Title }}</title>
+    <link>{{ .Permalink }}</link>
+    <description>{{ .Site.Params.description | default .Site.Title }}</description>
+    <language>{{ .Site.Language.Lang }}</language>
+    <managingEditor>{{ .Site.Params.author.email }} ({{ .Site.Params.author.name }})</managingEditor>
+    <webMaster>{{ .Site.Params.author.email }} ({{ .Site.Params.author.name }})</webMaster>
+    {{- if not .Date.IsZero }}
+    <lastBuildDate>{{ .Date.Format "Mon, 02 Jan 2006 15:04:05 -0700" }}</lastBuildDate>
+    {{- end }}
+    <atom:link href="{{ .Permalink }}" rel="self" type="application/rss+xml" />
+    {{- range $pages }}
+    <item>
+      <title>{{ .Title }}</title>
+      <link>{{ .Permalink }}</link>
+      <pubDate>{{ .Date.Format "Mon, 02 Jan 2006 15:04:05 -0700" }}</pubDate>
+      <guid>{{ .Permalink }}</guid>
+      <description>
+        {{- if .Description -}}
+          {{ .Description | html }}
+        {{- else if .Summary -}}
+          {{ .Summary | html }}
+        {{- else -}}
+          {{ .Content | html }}
+        {{- end -}}
+      </description>
+      {{- with .Params.author }}
+      <author>{{ . }}</author>
+      {{- end }}
+      {{- with .Params.tags }}
+      {{- range . }}
+      <category>{{ . }}</category>
+      {{- end }}
+      {{- end }}
+      {{- if .Params.image }}
+      <enclosure url="{{ .Params.image | absURL }}" type="image/jpeg" />
+      {{- end }}
+    </item>
+    {{- end }}
+  </channel>
+</rss>

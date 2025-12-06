@@ -1,0 +1,117 @@
+baseURL = "https://www.insignificantgamer.blog/"
+languageCode = 'en-us'
+title = 'Insignificant Gamer'
+theme = 'rusty-typewriter'
+
+[params]
+  description = "Musings of an Insignificant Lifetime Gamer"
+
+[params.author]
+  name = "Just_Irish / Sean R."
+  # Optional: add more author info if you want
+  email = "justirish.insignificant@proton.me"
+  # bio = "Your bio here"
+
+[params.rtwt]
+  sidePane = true
+  countPageItems = 20
+  searchPath = 'search'
+
+[params.rtwt.home]
+  showBio = true
+  showAuthorImg = true
+  sidePaneTags = true
+  showFeatured = true
+  showRecent = true
+  hideRecentWhenFeatured = true
+  countRecent = 5
+
+[params.rtwt.side.home]
+  sidePaneSticky = false
+  taxonomies = ['tags']
+  countTaxonomy = 5
+
+[params.rtwt.side.single]
+  sidePaneSticky = true
+  showDetails = true
+  showTableOfContents = true
+  showAttachments = true
+  showRelated = true
+  countRelated = 5
+
+[[menus.main]]
+name = 'Home'
+pageRef = '/'
+weight = 1
+
+[[menus.main]]
+name = 'Posts'
+pageRef = '/posts'
+weight = 2
+
+[[menus.main]]
+name = 'Tags'
+url = '/tags'
+weight = 3
+
+[[menus.main]]
+name = 'About Me'
+pageRef = '/about-me'
+weight = 4
+
+[[menus.main]]
+name = 'Fellow Writers'
+pageRef = '/fellow-writers'
+weight = 5
+
+[[menus.main]]
+name = 'My Mods'
+pageRef = '/my-mods'
+weight = 6
+
+#[[menus.main]]
+#name = 'RSS'
+#url = '/index.xml'
+#weight = 10
+
+# Build search index
+[outputFormats]
+ [outputFormats.SearchIndex]
+  mediaType = "application/json"
+  baseName = "searchindex"
+  isPlainText = true
+  notAlternative = true
+
+# [mediaTypes]
+#  [mediaTypes."application/json"]
+#   suffixes = ["json"]
+
+# [outputs]
+#  home = ["HTML","RSS", "SearchIndex"]
+
+# This allows html coding to work on the website
+ [markup]
+  [markup.goldmark]
+    [markup.goldmark.renderer]
+      unsafe = true
+
+# This is in regards to RSS
+[services]
+  [services.rss]
+    limit = 100
+
+[mediaTypes]
+  [mediaTypes."application/rss+xml"]
+    suffixes = ["xml"]
+
+[outputFormats]
+  [outputFormats.RSS]
+    mediaType = "application/rss+xml"
+    baseName = "rss"
+    isPlainText = false
+    rel = "alternate"
+    
+[outputs]
+  home = ["HTML", "RSS"]
+  section = ["HTML", "RSS"]
+# End of RSS

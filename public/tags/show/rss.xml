@@ -1,0 +1,27 @@
+&lt;?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Insignificant Gamer</title>
+    <link>https://www.insignificantgamer.blog/tags/show/</link>
+    <description>Musings of an Insignificant Lifetime Gamer</description>
+    <language>en</language>
+    <managingEditor>justirish.insignificant@proton.me (Just_Irish / Sean R.)</managingEditor>
+    <webMaster>justirish.insignificant@proton.me (Just_Irish / Sean R.)</webMaster>
+    <lastBuildDate>Sun, 15 Dec 2024 00:00:00 &#43;0000</lastBuildDate>
+    <atom:link href="https://www.insignificantgamer.blog/tags/show/" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Final Space- A Rough Gem in a Sea of Mediocrity</title>
+      <link>https://www.insignificantgamer.blog/posts/final-space-a-rough-gem-in-a-sea-of-mediocrity/</link>
+      <pubDate>Sun, 15 Dec 2024 00:00:00 &#43;0000</pubDate>
+      <guid>https://www.insignificantgamer.blog/posts/final-space-a-rough-gem-in-a-sea-of-mediocrity/</guid>
+      <description>After finishing the series I had to come share my thoughts and criticisms of a fantastic show that I believe more people need to see.</description>
+      <author>Sean R.</author>
+      <category>review</category>
+      <category>good-review</category>
+      <category>tv</category>
+      <category>show</category>
+      <category>cartoon</category>
+      <category>final-space</category>
+    </item>
+  </channel>
+</rss>

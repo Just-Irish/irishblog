@@ -3,11 +3,12 @@ languageCode = 'en-us'
 title = 'Insignificant Gamer'
 theme = 'rusty-typewriter'
 
+[params]
+  description = "Musings of an Insignificant Lifetime Gamer"
+
 [params.author]
   name = "Just_Irish / Sean R."
-  # Optional: add more author info if you want
-  # email = "your@email.com"
-  # bio = "Your bio here"
+  email = "justirish.insignificant@proton.me"
 
 [params.rtwt]
   sidePane = true
@@ -66,28 +67,38 @@ name = 'My Mods'
 pageRef = '/my-mods'
 weight = 6
 
-#[[menus.main]]
-#name = 'RSS'
-#url = '/index.xml'
-#weight = 10
-
-# Build search index
-[outputFormats]
- [outputFormats.SearchIndex]
-  mediaType = "application/json"
-  baseName = "searchindex"
-  isPlainText = true
-  notAlternative = true
-
+# Media types - MERGED SECTION
 [mediaTypes]
- [mediaTypes."application/json"]
-  suffixes = ["json"]
+  [mediaTypes."application/json"]
+    suffixes = ["json"]
+  [mediaTypes."application/rss+xml"]
+    suffixes = ["xml"]
 
+# Output formats - MERGED SECTION
+[outputFormats]
+  [outputFormats.SearchIndex]
+    mediaType = "application/json"
+    baseName = "searchindex"
+    isPlainText = true
+    notAlternative = true
+  [outputFormats.RSS]
+    mediaType = "application/rss+xml"
+    baseName = "rss"
+    isPlainText = false
+    rel = "alternate"
+
+# Outputs - MERGED SECTION
 [outputs]
- home = ["HTML","RSS", "SearchIndex"]
+  home = ["HTML", "RSS", "SearchIndex"]
+  section = ["HTML", "RSS"]
 
-# This allows html coding to work on the website
- [markup]
+# Allow HTML in markdown
+[markup]
   [markup.goldmark]
     [markup.goldmark.renderer]
       unsafe = true
+
+# RSS configuration
+[services]
+  [services.rss]
+    limit = 100
