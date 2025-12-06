@@ -1,26 +1,21 @@
-&lt;?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Insignificant Gamer</title>
+    <title>Mechwarrior on Insignificant Gamer</title>
     <link>https://www.insignificantgamer.blog/tags/mechwarrior/</link>
-    <description>Musings of an Insignificant Lifetime Gamer</description>
-    <language>en</language>
+    <description>Recent content in Mechwarrior on Insignificant Gamer</description>
+    <generator>Hugo</generator>
+    <language>en-us</language>
     <managingEditor>justirish.insignificant@proton.me (Just_Irish / Sean R.)</managingEditor>
     <webMaster>justirish.insignificant@proton.me (Just_Irish / Sean R.)</webMaster>
-    <lastBuildDate>Sun, 20 Oct 2024 00:00:00 &#43;0000</lastBuildDate>
-    <atom:link href="https://www.insignificantgamer.blog/tags/mechwarrior/" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Sat, 22 Nov 2025 00:00:00 +0000</lastBuildDate>
+    <atom:link href="https://www.insignificantgamer.blog/tags/mechwarrior/rss.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Before You Buy- Mechwarrior 5 Clans</title>
       <link>https://www.insignificantgamer.blog/posts/before-you-buy-mechwarrior-5-clans/</link>
-      <pubDate>Sun, 20 Oct 2024 00:00:00 &#43;0000</pubDate>
+      <pubDate>Sun, 20 Oct 2024 00:00:00 +0000</pubDate><author>justirish.insignificant@proton.me (Just_Irish / Sean R.)</author>
       <guid>https://www.insignificantgamer.blog/posts/before-you-buy-mechwarrior-5-clans/</guid>
       <description>A quick and dirty rundown of Mechwarrior 5: Clans after its intial release; not eloquent nor professional in the slightest.</description>
-      <author>Sean R.</author>
-      <category>initial-review</category>
-      <category>gaming</category>
-      <category>video-games</category>
-      <category>mechwarrior</category>
-      <category>battletech</category>
     </item>
   </channel>
 </rss>
