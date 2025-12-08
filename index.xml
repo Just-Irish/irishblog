@@ -8,8 +8,15 @@
     <language>en-us</language>
     <managingEditor>justirish.insignificant@proton.me (Just_Irish / Sean R.)</managingEditor>
     <webMaster>justirish.insignificant@proton.me (Just_Irish / Sean R.)</webMaster>
-    <lastBuildDate>Sun, 23 Nov 2025 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Sun, 07 Dec 2025 00:00:00 +0000</lastBuildDate>
     <atom:link href="https://www.insignificantgamer.blog/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Test Newsletter</title>
+      <link>https://www.insignificantgamer.blog/posts/test/</link>
+      <pubDate>Sun, 07 Dec 2025 00:00:00 +0000</pubDate><author>justirish.insignificant@proton.me (Just_Irish / Sean R.)</author>
+      <guid>https://www.insignificantgamer.blog/posts/test/</guid>
+      <description>&lt;p&gt;Your content here&amp;hellip;&lt;/p&gt;</description>
+    </item>
     <item>
       <title>I Hate AI, but Quietly Love It</title>
       <link>https://www.insignificantgamer.blog/posts/i-hate-ai-but-quietly-love-it/</link>
