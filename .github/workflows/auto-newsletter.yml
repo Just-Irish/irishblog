@@ -21,7 +21,7 @@ jobs:
         id: changed-files
         run: |
           # Get list of added markdown files in posts directory
-          ADDED_FILES=$(git diff --name-only --diff-filter=A HEAD^ HEAD | grep '^posts/.*\.md$' || true)
+          ADDED_FILES=$(git diff --name-only --diff-filter=A HEAD^ HEAD | grep '^content/posts/.*\.md$' || true)
           echo "Added files: $ADDED_FILES"
           echo "files<<EOF" >> $GITHUB_OUTPUT
           echo "$ADDED_FILES" >> $GITHUB_OUTPUT
