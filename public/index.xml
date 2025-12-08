@@ -8,56 +8,42 @@
     <language>en-us</language>
     <managingEditor>justirish.insignificant@proton.me (Just_Irish / Sean R.)</managingEditor>
     <webMaster>justirish.insignificant@proton.me (Just_Irish / Sean R.)</webMaster>
-    <lastBuildDate>Sun, 07 Dec 2025 22:30:00 -0600</lastBuildDate>
+    <lastBuildDate>Sun, 07 Dec 2025 22:15:00 -0600</lastBuildDate>
     <atom:link href="https://www.insignificantgamer.blog/index.xml" rel="self" type="application/rss+xml" />
     <item>
-      <title>Newsletter System Final Test</title>
-      <link>https://www.insignificantgamer.blog/posts/final-newsletter-test-1765167998/</link>
-      <pubDate>Sun, 07 Dec 2025 22:30:00 -0600</pubDate><author>justirish.insignificant@proton.me (Just_Irish / Sean R.)</author>
-      <guid>https://www.insignificantgamer.blog/posts/final-newsletter-test-1765167998/</guid>
-      <description>&lt;p&gt;This post has a unique timestamp in the filename to ensure it&amp;rsquo;s completely new.&lt;/p&gt;&#xA;&lt;p&gt;If you receive this via email, the automation is working!&lt;/p&gt;</description>
+      <title>Final Newsletter Test December 7</title>
+      <link>https://www.insignificantgamer.blog/posts/test-dec-7-unique/</link>
+      <pubDate>Sun, 07 Dec 2025 22:15:00 -0600</pubDate><author>justirish.insignificant@proton.me (Just_Irish / Sean R.)</author>
+      <guid>https://www.insignificantgamer.blog/posts/test-dec-7-unique/</guid>
+      <description>&lt;p&gt;This is the final test of the newsletter automation system.&lt;/p&gt;</description>
     </item>
     <item>
-      <title>absolutely final test</title>
-      <link>https://www.insignificantgamer.blog/posts/absolutely-final-test/</link>
+      <title>Testing Newsletter Automation</title>
+      <link>https://www.insignificantgamer.blog/posts/newsletter-automation-test/</link>
+      <pubDate>Sun, 07 Dec 2025 21:50:00 -0600</pubDate><author>justirish.insignificant@proton.me (Just_Irish / Sean R.)</author>
+      <guid>https://www.insignificantgamer.blog/posts/newsletter-automation-test/</guid>
+      <description>&lt;p&gt;This is a test to verify the newsletter automation works end-to-end.&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>oh my</title>
+      <link>https://www.insignificantgamer.blog/posts/oh-my/</link>
       <pubDate>Sun, 07 Dec 2025 00:00:00 +0000</pubDate><author>justirish.insignificant@proton.me (Just_Irish / Sean R.)</author>
-      <guid>https://www.insignificantgamer.blog/posts/absolutely-final-test/</guid>
+      <guid>https://www.insignificantgamer.blog/posts/oh-my/</guid>
       <description>After finishing the series I had to come share my thoughts and criticisms of a fantastic show that I believe more people need to see.</description>
     </item>
     <item>
-      <title>another final</title>
-      <link>https://www.insignificantgamer.blog/posts/another-final/</link>
+      <title>oh my god</title>
+      <link>https://www.insignificantgamer.blog/posts/oh-my-god/</link>
       <pubDate>Sun, 07 Dec 2025 00:00:00 +0000</pubDate><author>justirish.insignificant@proton.me (Just_Irish / Sean R.)</author>
-      <guid>https://www.insignificantgamer.blog/posts/another-final/</guid>
+      <guid>https://www.insignificantgamer.blog/posts/oh-my-god/</guid>
       <description>After finishing the series I had to come share my thoughts and criticisms of a fantastic show that I believe more people need to see.</description>
     </item>
     <item>
-      <title>come on</title>
-      <link>https://www.insignificantgamer.blog/posts/come-on/</link>
+      <title>Test Newsletter</title>
+      <link>https://www.insignificantgamer.blog/posts/test/</link>
       <pubDate>Sun, 07 Dec 2025 00:00:00 +0000</pubDate><author>justirish.insignificant@proton.me (Just_Irish / Sean R.)</author>
-      <guid>https://www.insignificantgamer.blog/posts/come-on/</guid>
-      <description>After finishing the series I had to come share my thoughts and criticisms of a fantastic show that I believe more people need to see.</description>
-    </item>
-    <item>
-      <title>final test</title>
-      <link>https://www.insignificantgamer.blog/posts/final-test/</link>
-      <pubDate>Sun, 07 Dec 2025 00:00:00 +0000</pubDate><author>justirish.insignificant@proton.me (Just_Irish / Sean R.)</author>
-      <guid>https://www.insignificantgamer.blog/posts/final-test/</guid>
-      <description>After finishing the series I had to come share my thoughts and criticisms of a fantastic show that I believe more people need to see.</description>
-    </item>
-    <item>
-      <title>is this the final test</title>
-      <link>https://www.insignificantgamer.blog/posts/is-this-the-final-test/</link>
-      <pubDate>Sun, 07 Dec 2025 00:00:00 +0000</pubDate><author>justirish.insignificant@proton.me (Just_Irish / Sean R.)</author>
-      <guid>https://www.insignificantgamer.blog/posts/is-this-the-final-test/</guid>
-      <description>After finishing the series I had to come share my thoughts and criticisms of a fantastic show that I believe more people need to see.</description>
-    </item>
-    <item>
-      <title>this is it</title>
-      <link>https://www.insignificantgamer.blog/posts/this-is-it/</link>
-      <pubDate>Sun, 07 Dec 2025 00:00:00 +0000</pubDate><author>justirish.insignificant@proton.me (Just_Irish / Sean R.)</author>
-      <guid>https://www.insignificantgamer.blog/posts/this-is-it/</guid>
-      <description>After finishing the series I had to come share my thoughts and criticisms of a fantastic show that I believe more people need to see.</description>
+      <guid>https://www.insignificantgamer.blog/posts/test/</guid>
+      <description>&lt;p&gt;Your content here&amp;hellip;&lt;/p&gt;</description>
     </item>
     <item>
       <title>I Hate AI, but Quietly Love It</title>

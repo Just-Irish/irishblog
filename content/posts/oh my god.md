@@ -1,5 +1,5 @@
 ---
-title: "final test"
+title: "oh my god"
 date: 2025-12-07
 lastmod: 2025-12-07
 draft: false
