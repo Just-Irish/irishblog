@@ -3,9 +3,9 @@ name: Auto-Send Newsletter on New Post
 on:
   push:
     branches:
-      - hostinger
+      - main
     paths:
-      - 'posts/**/*.md'
+      - 'content/posts/**/*.md'
 
 jobs:
   send-newsletter:
