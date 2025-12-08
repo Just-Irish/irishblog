@@ -35,7 +35,7 @@ jobs:
           LISTMONK_PASSWORD: ${{ secrets.LISTMONK_PASSWORD }}
           BLOG_URL: https://insignificantgamer.blog
         run: |
-echo "${{ steps.changed-files.outputs.files }}" | while read -r file; do
+  echo "${{ steps.changed-files.outputs.files }}" | while read -r file; do
     if [ -z "$file" ]; then
       continue
     fi
