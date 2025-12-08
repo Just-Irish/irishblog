@@ -54,7 +54,7 @@ jobs:
 
             echo "Logging in to Listmonk..."
             COOKIE_JAR=$(mktemp)
-            LOGIN_RESPONSE=$(curl -s -c "$COOKIE_JAR" -X POST -H "Content-Type: application/json" -d "{\"username\":\"${LISTMONK_USERNAME}\",\"password\":\"${LISTMONK_PASSWORD}\"}" "${LISTMONK_URL}/api/admin/login")
+            LOGIN_RESPONSE=$(curl -s -c "$COOKIE_JAR" -X POST -H "Content-Type: application/x-www-form-urlencoded" -d "username=${LISTMONK_USERNAME}&password=${LISTMONK_PASSWORD}" "${LISTMONK_URL}/admin/login")
 
             CAMPAIGN_JSON="{\"name\":\"New Post: ${TITLE}\",\"subject\":\"New Post: ${TITLE}\",\"lists\":[3],\"type\":\"regular\",\"content_type\":\"html\",\"body\":$(echo "$BODY" | jq -Rs .),\"send_at\":null,\"messenger\":\"email\"}"
 
