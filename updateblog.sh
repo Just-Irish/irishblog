@@ -34,19 +34,19 @@ else
 fi
 
 # Step 2: Sync posts from Obsidian to Hugo content folder using rsync
-echo "Syncing posts from Obsidian..."
-
-if [ ! -d "$sourcePath" ]; then
-    echo "Source path does not exist: $sourcePath"
-    exit 1
-fi
-
-if [ ! -d "$destinationPath" ]; then
-    echo "Destination path does not exist: $destinationPath"
-    exit 1
-fi
-
-rsync -av --delete "$sourcePath" "$destinationPath"
+# echo "Syncing posts from Obsidian..."
+# 
+# if [ ! -d "$sourcePath" ]; then
+#     echo "Source path does not exist: $sourcePath"
+#     exit 1
+# fi
+# 
+# if [ ! -d "$destinationPath" ]; then
+#     echo "Destination path does not exist: $destinationPath"
+#     exit 1
+# fi
+# 
+# rsync -av --delete "$sourcePath" "$destinationPath"
 
 # Step 3: Process Markdown files with Python script to handle image links
 echo "Processing image links in Markdown files..."
