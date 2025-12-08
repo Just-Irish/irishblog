@@ -2,19 +2,22 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
+    <loc>https://www.insignificantgamer.blog/</loc>
+    <lastmod>2025-12-07T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://www.insignificantgamer.blog/posts/</loc>
+    <lastmod>2025-12-07T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://www.insignificantgamer.blog/posts/test/</loc>
+    <lastmod>2025-12-07T00:00:00+00:00</lastmod>
+  </url><url>
     <loc>https://www.insignificantgamer.blog/tags/ai/</loc>
     <lastmod>2025-11-23T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://www.insignificantgamer.blog/posts/i-hate-ai-but-quietly-love-it/</loc>
     <lastmod>2025-11-23T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://www.insignificantgamer.blog/</loc>
-    <lastmod>2025-11-23T00:00:00+00:00</lastmod>
-  </url><url>
     <loc>https://www.insignificantgamer.blog/tags/observations/</loc>
-    <lastmod>2025-11-23T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>https://www.insignificantgamer.blog/posts/</loc>
     <lastmod>2025-11-23T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://www.insignificantgamer.blog/tags/ramblings/</loc>
