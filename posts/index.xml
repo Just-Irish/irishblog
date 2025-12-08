@@ -8,8 +8,15 @@
     <language>en-us</language>
     <managingEditor>justirish.insignificant@proton.me (Just_Irish / Sean R.)</managingEditor>
     <webMaster>justirish.insignificant@proton.me (Just_Irish / Sean R.)</webMaster>
-    <lastBuildDate>Sun, 07 Dec 2025 21:50:00 -0600</lastBuildDate>
+    <lastBuildDate>Sun, 07 Dec 2025 22:15:00 -0600</lastBuildDate>
     <atom:link href="https://www.insignificantgamer.blog/posts/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Final Newsletter Test December 7</title>
+      <link>https://www.insignificantgamer.blog/posts/test-dec-7-unique/</link>
+      <pubDate>Sun, 07 Dec 2025 22:15:00 -0600</pubDate><author>justirish.insignificant@proton.me (Just_Irish / Sean R.)</author>
+      <guid>https://www.insignificantgamer.blog/posts/test-dec-7-unique/</guid>
+      <description>&lt;p&gt;This is the final test of the newsletter automation system.&lt;/p&gt;</description>
+    </item>
     <item>
       <title>Testing Newsletter Automation</title>
       <link>https://www.insignificantgamer.blog/posts/newsletter-automation-test/</link>
