@@ -8,8 +8,15 @@
     <language>en-us</language>
     <managingEditor>justirish.insignificant@proton.me (Just_Irish / Sean R.)</managingEditor>
     <webMaster>justirish.insignificant@proton.me (Just_Irish / Sean R.)</webMaster>
-    <lastBuildDate>Sun, 07 Dec 2025 22:15:00 -0600</lastBuildDate>
+    <lastBuildDate>Tue, 09 Dec 2025 00:00:00 +0000</lastBuildDate>
     <atom:link href="https://www.insignificantgamer.blog/posts/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>another test post</title>
+      <link>https://www.insignificantgamer.blog/posts/another-test-post/</link>
+      <pubDate>Tue, 09 Dec 2025 00:00:00 +0000</pubDate><author>justirish.insignificant@proton.me (Just_Irish / Sean R.)</author>
+      <guid>https://www.insignificantgamer.blog/posts/another-test-post/</guid>
+      <description>After finishing the series I had to come share my thoughts and criticisms of a fantastic show that I believe more people need to see.</description>
+    </item>
     <item>
       <title>Final Newsletter Test December 7</title>
       <link>https://www.insignificantgamer.blog/posts/test-dec-7-unique/</link>
