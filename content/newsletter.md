@@ -12,8 +12,12 @@ Subscribe to stay updated with new posts from me! Why? It's free. This is a hobb
 - No spam, just questionable quality content
 - Unsubscribe anytime
 
-<iframe src="https://newsletter.insignificantgamer.blog/subscription/form" style="width: 100%; height: 300px; border: 1px solid #ccc; border-radius: 5px;"></iframe>
+*Listmonk is a free and open-source self-hosted newsletter service hosted from my own private server. Your email will only be used for this newsletter, nothing more, as I respect your need and want to privacy.*
+
+<div style="background-color: transparent; padding: 20px; border-radius: 8px;">
+  <iframe src="https://newsletter.insignificantgamer.blog/subscription/form" style="width: 100%; height: 450px; border: none; background-color: transparent;"></iframe>
+</div>
 
 ---
 
-*Your email will only be used for this newsletter. I respect your privacy.*
+**
