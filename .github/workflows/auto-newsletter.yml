@@ -43,14 +43,19 @@ jobs:
 
             TITLE=$(grep -m 1 '^title:' "$file" | sed 's/^title: *//; s/^"//; s/"$//')
             DATE=$(grep -m 1 '^date:' "$file" | sed 's/^date: *//')
-            SLUG=$(basename "$file" .md)
+            # Try to get slug from frontmatter, fallback to filename
+            SLUG=$(grep -m 1 '^slug:' "$file" | sed 's/^slug: *//; s/^"//; s/"$//')
+            if [ -z "$SLUG" ]; then
+              SLUG=$(basename "$file" .md)
+            fi
             POST_URL="${BLOG_URL}/posts/${SLUG}/"
-            EXCERPT=$(awk '/^---$/,/^---$/{next} NF{print; exit}' "$file" | head -c 200)
+            # Get first 500 characters of content for excerpt
+            EXCERPT=$(awk '/^---$/,/^---$/{next} NF{print}' "$file" | head -c 500 | sed 's/$//')
 
             echo "Title: $TITLE"
             echo "URL: $POST_URL"
 
-            BODY="<h2><a href=\"${POST_URL}\">${TITLE}</a></h2><p>${EXCERPT}...</p><p><a href=\"${POST_URL}\">Read the full post on Insignificant Gamer</a></p><hr><p><small>You're receiving this because you subscribed to Insignificant Gamer newsletter.</small></p>"
+            BODY="<div style='font-family: Georgia, serif; max-width: 600px; margin: 0 auto;'><h2 style='color: #333;'><a href='${POST_URL}' style='color: #0066cc; text-decoration: none;'>${TITLE}</a></h2><div style='line-height: 1.6; color: #333; margin: 20px 0;'>${EXCERPT}...</div><hr style='border: none; border-top: 1px solid #ddd; margin: 30px 0;'><p style='text-align: center;'><a href='${POST_URL}' style='display: inline-block; padding: 12px 30px; background-color: #0066cc; color: white; text-decoration: none; border-radius: 5px; font-weight: bold;'>Read Full Post</a></p><hr style='border: none; border-top: 1px solid #ddd; margin: 30px 0;'><p style='font-size: 12px; color: #999; text-align: center;'>You're receiving this because you subscribed to Insignificant Gamer newsletter.</p></div>"
 
             echo "Logging in to Listmonk..."
             COOKIE_JAR=$(mktemp)
