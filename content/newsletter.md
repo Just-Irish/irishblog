@@ -1,10 +1,7 @@
 ---
 title: "Subscribe to the Newsletter"
 date: 2025-12-09
-slug: "subscribe-to-newsletter"
-type: "blank"
-build:
-  list: never
+type: "page"
 ---
 
 Subscribe to stay updated with new posts from me! Why? It's free. This is a hobby, not a business. And maybe, just maybe, I'll have something interesting to say that you find some entertainment from.
