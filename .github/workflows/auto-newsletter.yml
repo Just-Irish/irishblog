@@ -69,6 +69,9 @@ jobs:
             CONTENT=$(echo "$CONTENT" | sed 's/\*\*\([^*]*\)\*\*/<strong>\1<\/strong>/g')
             CONTENT=$(echo "$CONTENT" | sed 's/\*\([^*]*\)\*/<em>\1<\/em>/g')
 
+            # Convert links [text](url) to <a href="url">text</a>
+            CONTENT=$(echo "$CONTENT" | sed 's/\[\([^]]*\)\](\([^)]*\))/<a href="\2" style="color: #0066cc; text-decoration: none;">\1<\/a>/g')
+
             # Convert double line breaks to paragraph breaks
             CONTENT=$(echo "$CONTENT" | sed 's/^$/<\/p><p>/g' | sed '1s/^/<p>/' | sed '$s/$/<\/p>/')
 
