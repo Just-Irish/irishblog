@@ -1,6 +1,7 @@
 ---
 title: "Fellow Writers and Gaming Blogs"
 date: 2025-11-22
+slug: "fellow-writers"
 type: "blank"
 build:
   list: never

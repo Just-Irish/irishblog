@@ -1,6 +1,7 @@
 ---
 title: "About Me"
 date: 2025-11-22
+slug: "about-me"
 type: "blank"
 build:
   list: never

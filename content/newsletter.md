@@ -1,7 +1,10 @@
 ---
 title: "Subscribe to the Newsletter"
 date: 2025-12-09
-type: "page"
+slug: "subscribe-to-newsletter"
+type: "blank"
+build:
+  list: never
 ---
 
 Subscribe to stay updated with new posts from me! Why? It's free. This is a hobby, not a business. And maybe, just maybe, I'll have something interesting to say that you find some entertainment from.
@@ -24,4 +27,4 @@ Subscribe to stay updated with new posts from me! Why? It's free. This is a hobb
 <iframe src="https://newsletter.insignificantgamer.blog/subscription/form" class="newsletter-frame" scrolling="no"></iframe>
 
 ---
-*Listmonk is a free and open-source self-hosted newsletter service hosted from my own private server. Your email will only be used for this newsletter, nothing more, as I respect your need and want to privacy.*
+*[Listmonk](https://listmonk.app) is a free and open-source self-hosted newsletter service hosted from my own private server. Your email will only be used for this newsletter, nothing more, as I respect your need and want to privacy.*

@@ -1,6 +1,7 @@
 ---
 title: "My Mods and Projects"
 date: 2025-11-22
+slug: "my-mods"
 type: "blank"
 build:
   list: never
