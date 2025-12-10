@@ -8,7 +8,7 @@ tags: ["review", "good-review", "tv", "show", "cartoon", "final-space"]
 topics: ["final-space"]
 author: "Sean R."
 # description: "A quick and dirty rundown of The Forever Winter after its intial release into early access; not eloquent nor professional in the slightest."
-summary: "After finishing the series I had to come share my thoughts and criticisms of a fantastic show that I believe more people need to see."
+summary: "Eat my shorts."
 #cover:
 #  image: "/images/fw-drone-thumb.webp"
 #  alt: "Cover image description"
