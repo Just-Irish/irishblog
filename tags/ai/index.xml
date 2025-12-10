@@ -8,13 +8,20 @@
     <language>en-us</language>
     <managingEditor>justirish.insignificant@proton.me (Just_Irish / Sean R.)</managingEditor>
     <webMaster>justirish.insignificant@proton.me (Just_Irish / Sean R.)</webMaster>
-    <lastBuildDate>Sun, 23 Nov 2025 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 09 Dec 2025 00:00:00 +0000</lastBuildDate>
     <atom:link href="https://www.insignificantgamer.blog/tags/ai/index.xml" rel="self" type="application/rss+xml" />
     <item>
-      <title>I Hate AI, but Quietly Love It</title>
-      <link>https://www.insignificantgamer.blog/posts/i-hate-ai-but-quietly-love-it/</link>
+      <title>Last Test</title>
+      <link>https://www.insignificantgamer.blog/posts/last-test/</link>
+      <pubDate>Tue, 09 Dec 2025 00:00:00 +0000</pubDate><author>justirish.insignificant@proton.me (Just_Irish / Sean R.)</author>
+      <guid>https://www.insignificantgamer.blog/posts/last-test/</guid>
+      <description>Is this really the last test finally?</description>
+    </item>
+    <item>
+      <title>I Hate AI, but Kind of Love It</title>
+      <link>https://www.insignificantgamer.blog/posts/i-hate-ai-but-kind-of-love-it/</link>
       <pubDate>Sun, 23 Nov 2025 00:00:00 +0000</pubDate><author>justirish.insignificant@proton.me (Just_Irish / Sean R.)</author>
-      <guid>https://www.insignificantgamer.blog/posts/i-hate-ai-but-quietly-love-it/</guid>
+      <guid>https://www.insignificantgamer.blog/posts/i-hate-ai-but-kind-of-love-it/</guid>
       <description>I break down my love/hate relationship with AI and how people just suck.</description>
     </item>
   </channel>
