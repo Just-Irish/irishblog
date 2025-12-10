@@ -71,7 +71,7 @@ weight = 6
 
 [[menus.main]]
 name = 'Subscribe'
-pageRef = '/subscribe-to-newsletter'
+pageRef = '/newsletter'
 weight = 7
 
 #[[menus.main]]
