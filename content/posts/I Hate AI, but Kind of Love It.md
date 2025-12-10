@@ -1,7 +1,7 @@
 ---
-title: "I Hate AI, but Quietly Love It"
+title: "I Hate AI, but Kind of Love It"
 date: 2025-11-23
-lastmod: 2025-11-23
+lastmod: 2025-12-09
 draft: false
 featured: true
 tags: ["ramblings", "random", "observations", "AI"]
