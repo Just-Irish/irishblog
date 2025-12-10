@@ -2,6 +2,7 @@
 title: "Last Test"
 date: 2025-12-09
 lastmod: 2025-12-09
+slug: "last-test"
 draft: false
 featured: true
 tags: ["ramblings", "random", "observations", "AI"]

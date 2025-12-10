@@ -1,7 +1,8 @@
 ---
 title: "Before You Buy- Mechwarrior 5 Clans"
 date: 2024-10-20
-lastmod: 2025-11-22
+lastmod: 2025-12-09
+slug: "before-you-buy-mechwarrior-5-clans"
 draft: false
 featured: false
 tags: ["initial-review", "gaming", "video-games", "mechwarrior", "battletech"]

@@ -1,7 +1,8 @@
 ---
 title: "Final Space- A Rough Gem in a Sea of Mediocrity"
 date: 2024-12-15
-lastmod: 2025-11-22
+lastmod: 2025-12-09
+slug: "final-space-a-rough-gem-in-a-sea-of-mediocrity"
 draft: false
 featured: false
 tags: ["review", "good-review", "tv", "show", "cartoon", "final-space"]

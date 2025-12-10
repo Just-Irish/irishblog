@@ -1,7 +1,8 @@
 ---
 title: "Are New Developers Caught in the Crosshairs of Today's Gamers?"
 date: 2025-06-17
-lastmod: 2025-11-22
+lastmod: 2025-12-09
+slug: "are-new-developers-caught-in-the-crosshairs-of-todays-gamers"
 draft: false
 featured: true
 tags: ["ramblings", "gaming", "video-games", "deep-thoughts"]

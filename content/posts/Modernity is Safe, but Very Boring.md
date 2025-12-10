@@ -1,7 +1,8 @@
 ---
 title: "Modernity is Safe, but Very Boring"
 date: 2024-11-07
-lastmod: 2025-11-22
+lastmod: 2025-12-09
+slug: "modernity-is-safe-but-very-boring"
 draft: false
 featured: false
 tags: ["ramblings", "random", "deep-thoughts"]

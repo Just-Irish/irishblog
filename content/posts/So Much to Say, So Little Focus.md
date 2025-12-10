@@ -1,7 +1,8 @@
 ---
 title: "So Much to Say, So Little Focus"
 date: 2025-11-23
-lastmod: 2025-11-23
+lastmod: 2025-12-09
+slug: "so-much-to-say-so-little-focus"
 draft: true
 featured: false
 tags: ["ramblings", "random",]

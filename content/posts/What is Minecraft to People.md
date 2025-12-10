@@ -1,7 +1,8 @@
 ---
 title: "What is Minecraft to People"
 date: 2024-10-12
-lastmod: 2025-11-22
+lastmod: 2025-12-09
+slug: "what-is-minecraft-to-people"
 draft: false
 featured: false
 tags: ["opinion", "critique", "video-games", "minecraft"]

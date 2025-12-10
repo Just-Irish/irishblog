@@ -1,7 +1,8 @@
 ---
-title: "What is Minecraft to People"
+title: "The Downfall of ARK"
 date: 2024-10-12
-lastmod: 2025-11-22
+lastmod: 2025-12-09
+slug: "the-downfall-of-ark"
 draft: true
 featured: false
 tags: ["opinion", "critique", "video-games", "minecraft"]

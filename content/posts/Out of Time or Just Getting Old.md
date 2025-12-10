@@ -1,7 +1,8 @@
 ---
 title: "Out of Time or Just Getting Old"
 date: 2024-10-30
-lastmod: 2025-11-22
+lastmod: 2025-12-09
+slug: "out-of-time-or-just-getting-old"
 draft: false
 featured: false
 tags: ["ramblings", "random", "deep-thoughts"]

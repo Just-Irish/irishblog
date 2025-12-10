@@ -1,7 +1,8 @@
 ---
-title: "What is Minecraft to People"
+title: "Not Everything Has to Be Multiplayer"
 date: 2024-10-12
-lastmod: 2025-11-22
+lastmod: 2025-12-09
+slug: "not-everything-has-to-be-multiplayer"
 draft: true
 featured: false
 tags: ["opinion", "critique", "video-games", "minecraft"]

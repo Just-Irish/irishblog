@@ -1,7 +1,8 @@
 ---
 title: "Before You Buy- The Forever Winter"
 date: 2024-10-06
-lastmod: 2025-11-22
+lastmod: 2025-12-09
+slug: "before-you-buy-the-forever-winter"
 draft: false
 featured: false
 tags: ["early-access-review", "gaming", "video-games", "grimdark", "the-forever-winter"]

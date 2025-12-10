@@ -2,6 +2,7 @@
 title: "I Hate AI, but Kind of Love It"
 date: 2025-11-23
 lastmod: 2025-12-09
+slug: "i-hate-ai-but-kind-of-love-it"
 draft: false
 featured: true
 tags: ["ramblings", "random", "observations", "AI"]
