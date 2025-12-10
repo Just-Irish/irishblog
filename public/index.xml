@@ -11,6 +11,13 @@
     <lastBuildDate>Tue, 09 Dec 2025 00:00:00 +0000</lastBuildDate>
     <atom:link href="https://www.insignificantgamer.blog/index.xml" rel="self" type="application/rss+xml" />
     <item>
+      <title>Subscribe to the Newsletter</title>
+      <link>https://www.insignificantgamer.blog/newsletter/</link>
+      <pubDate>Tue, 09 Dec 2025 00:00:00 +0000</pubDate><author>justirish.insignificant@proton.me (Just_Irish / Sean R.)</author>
+      <guid>https://www.insignificantgamer.blog/newsletter/</guid>
+      <description>&lt;p&gt;Subscribe to stay updated with new posts from me! Why? It&amp;rsquo;s free. This is a hobby, not a business. And maybe, just maybe, I&amp;rsquo;ll have something interesting to say that you find some entertainment from.&lt;/p&gt;&#xA;&lt;h2 id=&#34;what-youll-get&#34;&gt;What You&amp;rsquo;ll Get&lt;/h2&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;Email notifications for every new blog post&lt;/li&gt;&#xA;&lt;li&gt;No spam, just questionable quality content&lt;/li&gt;&#xA;&lt;li&gt;Unsubscribe anytime&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;iframe src=&#34;https://newsletter.insignificantgamer.blog/subscription/form&#34; style=&#34;width: 100%; height: 300px; border: 1px solid #ccc; border-radius: 5px;&#34;&gt;&lt;/iframe&gt;&#xA;&lt;hr&gt;&#xA;&lt;p&gt;&lt;em&gt;Your email will only be used for this newsletter. I respect your privacy.&lt;/em&gt;&lt;/p&gt;</description>
+    </item>
+    <item>
       <title>I Hate AI, but Kind of Love It</title>
       <link>https://www.insignificantgamer.blog/posts/i-hate-ai-but-kind-of-love-it/</link>
       <pubDate>Sun, 23 Nov 2025 00:00:00 +0000</pubDate><author>justirish.insignificant@proton.me (Just_Irish / Sean R.)</author>
@@ -72,13 +79,6 @@
       <pubDate>Sun, 06 Oct 2024 00:00:00 +0000</pubDate><author>justirish.insignificant@proton.me (Just_Irish / Sean R.)</author>
       <guid>https://www.insignificantgamer.blog/posts/before-you-buy-the-forever-winter/</guid>
       <description>A quick and dirty rundown of The Forever Winter after its intial release into early access; not eloquent nor professional in the slightest.</description>
-    </item>
-    <item>
-      <title>Subscribe to the Newsletter</title>
-      <link>https://www.insignificantgamer.blog/newsletter/</link>
-      <pubDate>Wed, 01 Jan 2020 00:00:00 +0000</pubDate><author>justirish.insignificant@proton.me (Just_Irish / Sean R.)</author>
-      <guid>https://www.insignificantgamer.blog/newsletter/</guid>
-      <description>&lt;h1 id=&#34;join-the-insignificant-gamer-newsletter&#34;&gt;Join the Insignificant Gamer Newsletter&lt;/h1&gt;&#xA;&lt;p&gt;Get new posts delivered directly to your inbox.&lt;/p&gt;&#xA;&lt;div id=&#34;listmonk-subscribe&#34;&gt;&#xA;  &lt;form action=&#34;https://your-listmonk-domain.com/subscription/form&#34; method=&#34;POST&#34;&gt;&#xA;    &lt;input type=&#34;hidden&#34; name=&#34;nonce&#34; /&gt;&#xA;&lt;pre&gt;&lt;code&gt;&amp;lt;div style=&amp;quot;margin-bottom: 1rem;&amp;quot;&amp;gt;&#xA;  &amp;lt;label for=&amp;quot;email&amp;quot; style=&amp;quot;display: block; margin-bottom: 0.5rem; font-weight: 600;&amp;quot;&amp;gt;Email Address&amp;lt;/label&amp;gt;&#xA;  &amp;lt;input &#xA;    type=&amp;quot;email&amp;quot; &#xA;    id=&amp;quot;email&amp;quot; &#xA;    name=&amp;quot;email&amp;quot; &#xA;    required &#xA;    placeholder=&amp;quot;you@example.com&amp;quot;&#xA;    style=&amp;quot;width: 100%; max-width: 400px; padding: 0.5rem; border: 1px solid var(--border-color); border-radius: 4px; background: var(--background-color); color: var(--text-color);&amp;quot;&#xA;  /&amp;gt;&#xA;&amp;lt;/div&amp;gt;&#xA;&#xA;&amp;lt;div style=&amp;quot;margin-bottom: 1rem;&amp;quot;&amp;gt;&#xA;  &amp;lt;label for=&amp;quot;name&amp;quot; style=&amp;quot;display: block; margin-bottom: 0.5rem; font-weight: 600;&amp;quot;&amp;gt;Name (Optional)&amp;lt;/label&amp;gt;&#xA;  &amp;lt;input &#xA;    type=&amp;quot;text&amp;quot; &#xA;    id=&amp;quot;name&amp;quot; &#xA;    name=&amp;quot;name&amp;quot; &#xA;    placeholder=&amp;quot;Your Name&amp;quot;&#xA;    style=&amp;quot;width: 100%; max-width: 400px; padding: 0.5rem; border: 1px solid var(--border-color); border-radius: 4px; background: var(--background-color); color: var(--text-color);&amp;quot;&#xA;  /&amp;gt;&#xA;&amp;lt;/div&amp;gt;&#xA;&#xA;&amp;lt;input type=&amp;quot;hidden&amp;quot; name=&amp;quot;l&amp;quot; value=&amp;quot;9f2c1e53-87fc-4321-8176-ae5d52501c0d&amp;quot; /&amp;gt;&#xA;&#xA;&amp;lt;button &#xA;  type=&amp;quot;submit&amp;quot;&#xA;  style=&amp;quot;padding: 0.75rem 2rem; background: var(--primary-color); color: white; border: none; border-radius: 4px; font-weight: 600; cursor: pointer; font-size: 1rem;&amp;quot;&#xA;&amp;gt;&#xA;  Subscribe&#xA;&amp;lt;/button&amp;gt;&#xA;&lt;/code&gt;&lt;/pre&gt;&#xA;  &lt;/form&gt;&#xA;&lt;/div&gt;&#xA;&lt;p style=&#34;margin-top: 2rem; font-size: 0.9rem; color: var(--text-muted);&#34;&gt;&#xA;  Your email will only be used to send blog updates. You can unsubscribe at any time.&#xA;&lt;/p&gt;</description>
     </item>
   </channel>
 </rss>
