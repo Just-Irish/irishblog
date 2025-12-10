@@ -49,13 +49,30 @@ jobs:
               SLUG=$(basename "$file" .md)
             fi
             POST_URL="${BLOG_URL}/posts/${SLUG}/"
-            # Get first 500 characters of content for excerpt
-            EXCERPT=$(awk '/^---$/,/^---$/{next} NF{print}' "$file" | head -c 500 | sed 's/$//')
+
+            # Extract content without frontmatter and convert basic markdown to HTML
+            CONTENT=$(awk '/^---$/,/^---$/{next} {print}' "$file")
+
+            # Convert markdown to HTML (basic conversion)
+            # Convert headers
+            CONTENT=$(echo "$CONTENT" | sed 's/^# \(.*\)/<h1>\1<\/h1>/g')
+            CONTENT=$(echo "$CONTENT" | sed 's/^## \(.*\)/<h2>\1<\/h2>/g')
+            CONTENT=$(echo "$CONTENT" | sed 's/^### \(.*\)/<h3>\1<\/h3>/g')
+
+            # Convert bold and italic
+            CONTENT=$(echo "$CONTENT" | sed 's/\*\*\([^*]*\)\*\*/<strong>\1<\/strong>/g')
+            CONTENT=$(echo "$CONTENT" | sed 's/\*\([^*]*\)\*/<em>\1<\/em>/g')
+
+            # Convert line breaks to paragraphs
+            CONTENT=$(echo "$CONTENT" | awk 'BEGIN{RS="";ORS="</p><p>"}{print "<p>"$0"</p>"}')
+
+            # Get first 1000 characters for excerpt
+            EXCERPT=$(echo "$CONTENT" | head -c 1000)
 
             echo "Title: $TITLE"
             echo "URL: $POST_URL"
 
-            BODY="<div style='font-family: Georgia, serif; max-width: 600px; margin: 0 auto;'><h2 style='color: #333;'><a href='${POST_URL}' style='color: #0066cc; text-decoration: none;'>${TITLE}</a></h2><div style='line-height: 1.6; color: #333; margin: 20px 0;'>${EXCERPT}...</div><hr style='border: none; border-top: 1px solid #ddd; margin: 30px 0;'><p style='text-align: center;'><a href='${POST_URL}' style='display: inline-block; padding: 12px 30px; background-color: #0066cc; color: white; text-decoration: none; border-radius: 5px; font-weight: bold;'>Read Full Post</a></p><hr style='border: none; border-top: 1px solid #ddd; margin: 30px 0;'><p style='font-size: 12px; color: #999; text-align: center;'>You're receiving this because you subscribed to Insignificant Gamer newsletter.</p></div>"
+            BODY="<div style='font-family: Georgia, serif; max-width: 600px; margin: 0 auto;'><h2 style='color: #333; border-bottom: 2px solid #0066cc; padding-bottom: 10px;'><a href='${POST_URL}' style='color: #0066cc; text-decoration: none;'>${TITLE}</a></h2><div style='line-height: 1.8; color: #444; margin: 30px 0; font-size: 16px;'>${EXCERPT}...</div><hr style='border: none; border-top: 1px solid #ddd; margin: 40px 0;'><p style='text-align: center;'><a href='${POST_URL}' style='display: inline-block; padding: 14px 35px; background-color: #0066cc; color: white; text-decoration: none; border-radius: 6px; font-weight: bold; font-size: 16px;'>Continue Reading</a></p><hr style='border: none; border-top: 1px solid #ddd; margin: 40px 0;'><p style='font-size: 13px; color: #999; text-align: center; font-style: italic;'>You're receiving this because you subscribed to Insignificant Gamer newsletter.</p></div>"
 
             echo "Logging in to Listmonk..."
             COOKIE_JAR=$(mktemp)
