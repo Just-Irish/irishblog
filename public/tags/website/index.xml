@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Website on Insignificant Gamer</title>
+    <link>https://www.insignificantgamer.blog/tags/website/</link>
+    <description>Recent content in Website on Insignificant Gamer</description>
+    <generator>Hugo</generator>
+    <language>en-us</language>
+    <managingEditor>justirish.insignificant@proton.me (Just_Irish / Sean R.)</managingEditor>
+    <webMaster>justirish.insignificant@proton.me (Just_Irish / Sean R.)</webMaster>
+    <lastBuildDate>Wed, 10 Dec 2025 00:00:00 +0000</lastBuildDate>
+    <atom:link href="https://www.insignificantgamer.blog/tags/website/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Website Migration</title>
+      <link>https://www.insignificantgamer.blog/posts/website-migration/</link>
+      <pubDate>Wed, 10 Dec 2025 00:00:00 +0000</pubDate><author>justirish.insignificant@proton.me (Just_Irish / Sean R.)</author>
+      <guid>https://www.insignificantgamer.blog/posts/website-migration/</guid>
+      <description>A simple explanation for my new wesite.</description>
+    </item>
+  </channel>
+</rss>
