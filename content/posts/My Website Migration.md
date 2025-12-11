@@ -1,8 +1,8 @@
 ---
-title: "Website Migration"
+title: "My Website Migration"
 date: 2025-12-10
 lastmod: 2025-12-10
-slug: "website-migration"
+slug: "my-website-migration"
 draft: false
 featured: true
 tags: ["important", "public service announcement", "website"]
