@@ -11,10 +11,17 @@
     <lastBuildDate>Wed, 10 Dec 2025 00:00:00 +0000</lastBuildDate>
     <atom:link href="https://www.insignificantgamer.blog/posts/index.xml" rel="self" type="application/rss+xml" />
     <item>
-      <title>Website Migration</title>
-      <link>https://www.insignificantgamer.blog/posts/website-migration/</link>
+      <title>My Website Migration</title>
+      <link>https://www.insignificantgamer.blog/posts/my-website-migration/</link>
       <pubDate>Wed, 10 Dec 2025 00:00:00 +0000</pubDate><author>justirish.insignificant@proton.me (Just_Irish / Sean R.)</author>
-      <guid>https://www.insignificantgamer.blog/posts/website-migration/</guid>
+      <guid>https://www.insignificantgamer.blog/posts/my-website-migration/</guid>
+      <description>A simple explanation for my new wesite.</description>
+    </item>
+    <item>
+      <title>My Website Migration</title>
+      <link>https://www.insignificantgamer.blog/posts/my-website-migration/</link>
+      <pubDate>Wed, 10 Dec 2025 00:00:00 +0000</pubDate><author>justirish.insignificant@proton.me (Just_Irish / Sean R.)</author>
+      <guid>https://www.insignificantgamer.blog/posts/my-website-migration/</guid>
       <description>A simple explanation for my new wesite.</description>
     </item>
     <item>
