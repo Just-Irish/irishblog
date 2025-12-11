@@ -16,7 +16,7 @@ summary: "A simple explanation for my new wesite."
 #  caption: "Image caption"
 ---
 
-![Alt Text](/images/ji_cropped_ellipse.webp)
+![Alt Text](/images/ji_cropped_ellipse_scaled.webp)
 
 Hello, and welcome to my new website! This post is mostly to get my very first subscription newsletter sent out to inform you of my website's migration to a new host and new domain name. Be sure to check out my most recent post as only those who received it directly from me have seen it: [I Hate AI, But Kind of Love It](https://insignificantgamer.blog/posts/i-hate-ai-but-kind-of-love-it/)
 
