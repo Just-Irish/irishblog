@@ -8,8 +8,15 @@
     <language>en-us</language>
     <managingEditor>justirish.insignificant@proton.me (Just_Irish / Sean R.)</managingEditor>
     <webMaster>justirish.insignificant@proton.me (Just_Irish / Sean R.)</webMaster>
-    <lastBuildDate>Tue, 09 Dec 2025 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 10 Dec 2025 00:00:00 +0000</lastBuildDate>
     <atom:link href="https://www.insignificantgamer.blog/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Website Migration</title>
+      <link>https://www.insignificantgamer.blog/posts/website-migration/</link>
+      <pubDate>Wed, 10 Dec 2025 00:00:00 +0000</pubDate><author>justirish.insignificant@proton.me (Just_Irish / Sean R.)</author>
+      <guid>https://www.insignificantgamer.blog/posts/website-migration/</guid>
+      <description>A simple explanation for my new wesite.</description>
+    </item>
     <item>
       <title>Subscribe to the Newsletter</title>
       <link>https://www.insignificantgamer.blog/newsletter/</link>
