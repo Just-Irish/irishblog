@@ -112,6 +112,9 @@ weight = 7
   isPlainText = true
   notAlternative = true
 
+[outputs]
+  home = ["HTML", "RSS", "SearchIndex"]
+
 # This allows html coding to work on the website
  [markup]
   [markup.goldmark]
