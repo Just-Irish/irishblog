@@ -15,10 +15,22 @@
     transition: transform 0.2s ease;
 }
 
+/* Invisible bridge to prevent dropdown from disappearing */
+.nav-item.dropdown::after {
+    content: '';
+    position: absolute;
+    top: 100%;
+    left: 0;
+    right: 0;
+    height: 8px;
+    background: transparent;
+    z-index: 999;
+}
+
 .dropdown-menu {
     display: none;
     position: absolute;
-    top: 100%;
+    top: calc(100% + 4px);
     left: 0;
     min-width: 160px;
     background-color: var(--bg-color, #fff);
@@ -26,7 +38,6 @@
     border-radius: 4px;
     box-shadow: 0 2px 8px rgba(0, 0, 0, 0.15);
     z-index: 1000;
-    margin-top: 4px;
 }
 
 .dropdown-menu a.dropdown-item {
