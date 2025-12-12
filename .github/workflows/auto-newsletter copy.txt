@@ -1,0 +1,110 @@
+name: Auto-Send Newsletter on New Post
+
+on:
+  push:
+    branches:
+      - main
+    paths:
+      - 'content/posts/**/*.md'
+
+jobs:
+  send-newsletter:
+    runs-on: ubuntu-latest
+
+    steps:
+      - name: Checkout repository
+        uses: actions/checkout@v4
+        with:
+          fetch-depth: 2
+
+      - name: Get changed files
+        id: changed-files
+        run: |
+          ADDED_FILES=$(git diff --name-only --diff-filter=A HEAD^ HEAD | grep '^content/posts/.*\.md$' || true)
+          echo "Added files: $ADDED_FILES"
+          echo "files<<EOF" >> $GITHUB_OUTPUT
+          echo "$ADDED_FILES" >> $GITHUB_OUTPUT
+          echo "EOF" >> $GITHUB_OUTPUT
+
+      - name: Process new posts and send newsletter
+        if: steps.changed-files.outputs.files != ''
+        env:
+          LISTMONK_URL: https://newsletter.insignificantgamer.blog
+          LISTMONK_USERNAME: ${{ secrets.LISTMONK_USERNAME }}
+          LISTMONK_PASSWORD: ${{ secrets.LISTMONK_PASSWORD }}
+          BLOG_URL: https://insignificantgamer.blog
+        run: |
+          echo "${{ steps.changed-files.outputs.files }}" | while read -r file; do
+            if [ -z "$file" ]; then
+              continue
+            fi
+
+            echo "Processing: $file"
+
+            TITLE=$(grep -m 1 '^title:' "$file" | sed 's/^title: *//; s/^"//; s/"$//')
+            DATE=$(grep -m 1 '^date:' "$file" | sed 's/^date: *//')
+            # Try to get slug from frontmatter, fallback to filename
+            SLUG=$(grep -m 1 '^slug:' "$file" | sed 's/^slug: *//; s/^"//; s/"$//')
+            if [ -z "$SLUG" ]; then
+              SLUG=$(basename "$file" .md)
+            fi
+            POST_URL="${BLOG_URL}/posts/${SLUG}/"
+
+            # Extract content without frontmatter - skip everything between the two --- markers
+            CONTENT=$(awk '
+            BEGIN { in_frontmatter=0; frontmatter_count=0 }
+            /^---$/ {
+                frontmatter_count++
+                in_frontmatter = (frontmatter_count == 1)
+                next
+            }
+            frontmatter_count >= 2 { print }
+            ' "$file")
+
+            # Convert markdown to HTML (basic conversion)
+            # Convert headers (must preserve spaces)
+            CONTENT=$(echo "$CONTENT" | sed 's/^# /<h1>/g; s/$/<\/h1>/g' | sed 's/^## /<h2>/g; s/$/<\/h2>/g' | sed 's/^### /<h3>/g; s/$/<\/h3>/g')
+
+            # Convert bold and italic
+            CONTENT=$(echo "$CONTENT" | sed 's/\*\*\([^*]*\)\*\*/<strong>\1<\/strong>/g')
+            CONTENT=$(echo "$CONTENT" | sed 's/\*\([^*]*\)\*/<em>\1<\/em>/g')
+
+            # Convert links [text](url) to <a href="url">text</a>
+            CONTENT=$(echo "$CONTENT" | sed 's/\[\([^]]*\)\](\([^)]*\))/<a href="\2" style="color: #0066cc; text-decoration: none;">\1<\/a>/g')
+
+            # Convert double line breaks to paragraph breaks
+            CONTENT=$(echo "$CONTENT" | sed 's/^$/<\/p><p>/g' | sed '1s/^/<p>/' | sed '$s/$/<\/p>/')
+
+            # Get first 800 characters for excerpt
+            EXCERPT=$(echo "$CONTENT" | head -c 800)
+
+            echo "Title: $TITLE"
+            echo "URL: $POST_URL"
+
+            BODY="<div style='font-family: Georgia, serif; max-width: 600px; margin: 0 auto;'><h2 style='color: #333; border-bottom: 2px solid #0066cc; padding-bottom: 10px;'><a href='${POST_URL}' style='color: #0066cc; text-decoration: none;'>${TITLE}</a></h2><div style='line-height: 1.8; color: #444; margin: 30px 0; font-size: 16px;'>${EXCERPT}...</div><hr style='border: none; border-top: 1px solid #ddd; margin: 40px 0;'><p style='text-align: center;'><a href='${POST_URL}' style='display: inline-block; padding: 14px 35px; background-color: #0066cc; color: white; text-decoration: none; border-radius: 6px; font-weight: bold; font-size: 16px;'>Continue Reading</a></p><hr style='border: none; border-top: 1px solid #ddd; margin: 40px 0;'><p style='font-size: 13px; color: #999; text-align: center; font-style: italic;'>You're receiving this because you subscribed to Insignificant Gamer newsletter.</p></div>"
+
+            echo "Logging in to Listmonk..."
+            COOKIE_JAR=$(mktemp)
+            LOGIN_RESPONSE=$(curl -s -c "$COOKIE_JAR" -X POST -H "Content-Type: application/x-www-form-urlencoded" -d "username=${LISTMONK_USERNAME}&password=${LISTMONK_PASSWORD}" "${LISTMONK_URL}/admin/login")
+
+            CAMPAIGN_JSON="{\"name\":\"New Post: ${TITLE}\",\"subject\":\"New Post: ${TITLE}\",\"lists\":[3],\"type\":\"regular\",\"content_type\":\"html\",\"body\":$(echo "$BODY" | jq -Rs .),\"send_at\":null,\"messenger\":\"email\"}"
+
+            echo "Creating campaign..."
+            CAMPAIGN_RESPONSE=$(curl -s -b "$COOKIE_JAR" -X POST -H "Content-Type: application/json" -d "$CAMPAIGN_JSON" "${LISTMONK_URL}/api/campaigns")
+
+            CAMPAIGN_ID=$(echo "$CAMPAIGN_RESPONSE" | jq -r '.data.id')
+
+            if [ "$CAMPAIGN_ID" != "null" ] && [ -n "$CAMPAIGN_ID" ]; then
+              echo "Campaign created with ID: $CAMPAIGN_ID"
+              echo "Sending campaign..."
+              curl -s -b "$COOKIE_JAR" -X PUT "${LISTMONK_URL}/api/campaigns/${CAMPAIGN_ID}/status" -H "Content-Type: application/json" -d '{"status": "running"}'
+              echo "✅ Newsletter sent for: $TITLE"
+            else
+              echo "❌ Failed to create campaign"
+              echo "Response: $CAMPAIGN_RESPONSE"
+              rm -f "$COOKIE_JAR"
+              exit 1
+            fi
+
+            rm -f "$COOKIE_JAR"
+          done
