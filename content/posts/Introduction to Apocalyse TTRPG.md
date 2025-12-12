@@ -28,15 +28,15 @@ summary: "Lore and introduction to the tabletop game I am working on."
 
  <span style="color: var(--primary-color); font-style: italic;">Are you familiar with the feeling of all the hairs on the back of your neck standing up? What about the numbness after sitting in an uncomfortable position for too long? Imagine those feelings, but so much greater, beginning in your chest and spreading throughout your body in a single instant. Everybody felt it at the exact same time that day, and we were woefully unaware of its meaning until we met Him.</span>
 
- <span style="color: #FFD700; font-style: bold;">“I have returned,”</span> he said. <span style="color: var(--primary-color); font-style: italic;">We couldn’t believe it. It was Him: Jesus Christ.</span> <span style="color: #FFD700; font-style: bold;">“Poor are the tidings I bring with my return, for the Battle of Armageddon has begun.”</span>
+ <span style="color: #ffe970; font-style: bold;">“I have returned,” he said.</span> <span style="color: var(--primary-color); font-style: italic;">We couldn’t believe it. It was Him: Jesus Christ.</span> <span style="color: #ffe970; font-style: bold;">“Poor are the tidings I bring with my return, for the Battle of Armageddon has begun.”</span>
 
  <span style="color: var(--primary-color); font-style: italic;">Is this why America has gone silent? Is this why ships we send West to the shores of the Americas have never returned?</span>
 
-<span style="color: #FFD700; font-style: bold;">“The Son of Perdition has claimed the land to the West.”</span>
+<span style="color: #ffe970; font-style: bold;">“The Son of Perdition has claimed the land to the West.”</span>
 
  <span style="color: var(--primary-color); font-style: italic;">We had no idea that Jesus’ return would be so catastrophic. Months later we would receive word that Jerusalem had fallen. Jerusalem, the holiest of cities, conquered. Jesus would address us one last time:</span>
  
-<span style="color: #FFD700; font-style: bold;">“My children. I have been striken with the most oppressive of pains. I must meet The Beast in battle for control of Jerusalem. Upon meeting my opposite my strength will be bound within mortal limits. My promise of paradise through faith must falter for there to be victory. Fret not for through faith I promise rebirth until the day of triumph.”</span>
+<span style="color: #ffe970; font-style: bold;">“My children. I have been striken with the most oppressive of pains. I must meet The Beast in battle for control of Jerusalem. Upon meeting my opposite my strength will be bound within mortal limits. My promise of paradise through faith must falter for there to be victory. Fret not for through faith I promise rebirth until the day of triumph.”</span>
 
  <span style="color: var(--primary-color); font-style: italic;">It took no time for scholars and religious leaders to agree upon what Christ had said: there would be no Heaven, only a repetition of life on Earth, until some victory that is achieved that we cannot begin to understand. Why should we continue with faith if faith gave us broken promises?</span>
 
