@@ -5,7 +5,7 @@ lastmod: 2025-12-09
 slug: "before-you-buy-mechwarrior-5-clans"
 draft: false
 featured: false
-tags: ["initial-review", "gaming", "video-games", "mechwarrior", "battletech"]
+tags: ["initial-review", "gaming", "video-games", "mechwarrior", "battletech", "all-posts"]
 topics: ["mechwarrior"]
 author: "Sean R."
 # description: "A quick and dirty rundown of The Forever Winter after its intial release into early access; not eloquent nor professional in the slightest."

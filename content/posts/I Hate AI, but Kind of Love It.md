@@ -5,7 +5,7 @@ lastmod: 2025-12-09
 slug: "i-hate-ai-but-kind-of-love-it"
 draft: false
 featured: true
-tags: ["ramblings", "random", "observations", "AI"]
+tags: ["ramblings", "random", "observations", "AI", "all-posts"]
 topics: ["ramblings"]
 author: "Sean R."
 # description: "A quick and dirty rundown of The Forever Winter after its intial release into early access; not eloquent nor professional in the slightest."

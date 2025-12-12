@@ -5,7 +5,7 @@ lastmod: 2025-12-09
 slug: "modernity-is-safe-but-very-boring"
 draft: false
 featured: false
-tags: ["ramblings", "random", "deep-thoughts"]
+tags: ["ramblings", "random", "deep-thoughts", "all-posts"]
 topics: ["deep-thoughts"]
 author: "Sean R."
 # description: "A quick and dirty rundown of The Forever Winter after its intial release into early access; not eloquent nor professional in the slightest."

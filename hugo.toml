@@ -48,10 +48,16 @@ pageRef = '/posts'
 weight = 2
 
 [[menus.main]]
+name = 'All Posts'
+parent = 'Posts'
+url = 'tags/all-posts'
+weight = 1
+
+[[menus.main]]
 name = 'Apocalypse TTRPG'
 parent = 'Posts'
 url = 'tags/apocalypse-ttrpg'
-weight = 1
+weight = 2
 
 [[menus.main]]
 name = 'Tags'

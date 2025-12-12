@@ -5,7 +5,7 @@ lastmod: 2025-12-09
 slug: "not-everything-has-to-be-multiplayer"
 draft: true
 featured: false
-tags: ["opinion", "critique", "video-games", "minecraft"]
+tags: ["opinion", "critique", "video-games", "minecraft", "all-posts"]
 topics: ["minecraft"]
 author: "Sean R."
 # description: "A quick and dirty rundown of The Forever Winter after its intial release into early access; not eloquent nor professional in the slightest."

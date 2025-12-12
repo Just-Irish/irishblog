@@ -5,7 +5,7 @@ lastmod: 2025-12-10
 slug: "my-website-migration"
 draft: false
 featured: true
-tags: ["important", "public service announcement", "website"]
+tags: ["important", "public service announcement", "website", "all-posts"]
 topics: ["website"]
 author: "Sean R."
 # description: ""

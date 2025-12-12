@@ -5,7 +5,7 @@ lastmod: 2025-12-09
 slug: "so-much-to-say-so-little-focus"
 draft: true
 featured: false
-tags: ["ramblings", "random",]
+tags: ["ramblings", "random", "all-posts"]
 topics: ["ramblings"]
 author: "Sean R."
 # description: "A quick and dirty rundown of The Forever Winter after its intial release into early access; not eloquent nor professional in the slightest."
