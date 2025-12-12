@@ -1,8 +1,8 @@
 ---
-title: "Apocalypse TTRPG Introduction"
+title: "Introduction to my TTRPG Campaign"
 date: 2025-12-11
 lastmod: 2025-12-11
-slug: "apocalypse-ttrpg-introduction"
+slug: "introduction-to-my-ttrpg-campaign"
 draft: false
 featured: false
 tags: ["apocalypse-ttrpg", "lore"]
@@ -16,7 +16,9 @@ summary: "Lore and introduction to the tabletop game I am working on."
 #  caption: "Image caption"
 ---
 
-![Penitent Guard Sigil](/images/ttrpg-penitent-guard-sigil-scaled.png)
+<p style="text-align: center;">
+  <img src="/images/ttrpg-penitent-guard-sigil-scaled.png" alt="Alt Text" style="max-width: 100%; height: auto;">
+</p>
 
 ## Our Forever War; A Collection of Journals and First-hand Accounts of the Start of the Apocalypse
 
