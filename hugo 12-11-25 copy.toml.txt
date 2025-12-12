@@ -8,7 +8,9 @@ theme = 'rusty-typewriter'
 
 [params.author]
   name = "Just_Irish / Sean R."
+  # Optional: add more author info if you want
   email = "justirish.insignificant@proton.me"
+  # bio = "Your bio here"
 
 [params.rtwt]
   sidePane = true
@@ -62,35 +64,20 @@ name = 'Fellow Writers'
 pageRef = '/fellow-writers'
 weight = 5
 
-# Parent menu item for "My Projects" dropdown
 [[menus.main]]
-name = 'My Projects'
-identifier = 'projects'
+name = 'My Mods'
+pageRef = '/my-mods'
 weight = 6
-
-# Child menu items under "My Projects"
-[[menus.main]]
-name = 'Media'
-parent = 'projects'
-pageRef = '/media'
-weight = 1
-
-#[[menus.main]]
-#name = 'Tabletop'
-#parent = 'projects'
-#pageRef = '/tabletop'
-#weight = 2
-
-[[menus.main]]
-name = 'Mods'
-parent = 'projects'
-pageRef = '/mods'
-weight = 3
 
 [[menus.main]]
 name = 'Subscribe'
 pageRef = '/newsletter'
 weight = 7
+
+#[[menus.main]]
+#name = 'RSS'
+#url = '/index.xml'
+#weight = 10
 
 # Build search index
 [outputFormats]
@@ -100,8 +87,36 @@ weight = 7
   isPlainText = true
   notAlternative = true
 
+# [mediaTypes]
+#  [mediaTypes."application/json"]
+#   suffixes = ["json"]
+
+# [outputs]
+#  home = ["HTML","RSS", "SearchIndex"]
+
 # This allows html coding to work on the website
  [markup]
   [markup.goldmark]
     [markup.goldmark.renderer]
       unsafe = true
+
+# This is in regards to RSS
+# [services]
+#   [services.rss]
+#     limit = 100
+
+# [mediaTypes]
+#   [mediaTypes."application/rss+xml"]
+#     suffixes = ["xml"]
+
+# [outputFormats]
+#   [outputFormats.RSS]
+#     mediaType = "application/rss+xml"
+#     baseName = "rss"
+#     isPlainText = false
+#     rel = "alternate"
+    
+# [outputs]
+#   home = ["HTML", "RSS"]
+#   section = ["HTML", "RSS"]
+# End of RSS

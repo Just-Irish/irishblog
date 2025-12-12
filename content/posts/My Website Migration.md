@@ -30,7 +30,7 @@ From there, further research lead me to another type of website: static site gen
 
 ## Explanation of this New Place
 
-There's some stark differences from this website compared to my previous Ghost website, but it's generally all still pretty straight forward when it comes to a webpage. Some key differences though would be my use of social media links if you wish to follow me there (I mostly just lurk if I use them), a new way to subscribe to a newsletter, and an easy way to also get my posts delivered directly to your favorite RSS Reader.
+There's some stark differences from this website compared to my previous Ghost website, but it's generally all still pretty straight forward when it comes to a webpage. Some key differences though would be my use of social media links if you wish to follow me there (I don't use them really, except to post my blog posts there), a new way to subscribe to a newsletter, and an easy way to also get my posts delivered directly to your favorite RSS Reader.
 
 - __Comments__: You can now leave comments down at the bottom of every post as well as leaving emoticons, but with a caveat. Since this is a service is a free and open-source service through Github, if you want to leave a comment or emoji you have to sign in through Github. This may change at a later time, but most peope won't be leaving comments.
 
