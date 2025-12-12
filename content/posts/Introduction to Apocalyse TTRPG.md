@@ -16,11 +16,7 @@ summary: "Lore and introduction to the tabletop game I am working on."
 #  caption: "Image caption"
 ---
 
-<div style="text-align: center;">
-
 ![Penitent Guard Sigil](/images/ttrpg-penitent-guard-sigil-scaled.webp)
-
-</div>
 
 ## Our Forever War; A Collection of Journals and First-hand Accounts of the Start of the Apocalypse
 
