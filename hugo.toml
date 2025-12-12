@@ -60,21 +60,27 @@ url = '/tags/video-games'
 weight = 2
 
 [[menus.main]]
-name = 'Apocalypse TTRPG'
-parent = 'Posts'
-url = '/tags/apocalypse-ttrpg'
-weight = 3
-
-[[menus.main]]
 name = 'Ramblings'
 parent = 'Posts'
 url = '/tags/ramblings'
+weight = 3
+
+[[menus.main]]
+name = 'Apocalypse TTRPG'
+parent = 'Posts'
+url = '/tags/apocalypse-ttrpg'
 weight = 4
 
 [[menus.main]]
 name = 'Tags'
+parent = 'Posts'
 url = '/tags'
-weight = 3
+weight = 5
+
+# [[menus.main]]
+# name = 'Tags'
+# url = '/tags'
+# weight = 3
 
 [[menus.main]]
 name = 'About Me'
