@@ -41,6 +41,13 @@ jobs:
 
             echo "Processing: $file"
 
+            # Check if post has apocalypse-ttrpg tag - if so, skip newsletter
+            TAGS=$(grep -m 1 '^tags:' "$file" || echo "")
+            if echo "$TAGS" | grep -q "apocalypse-ttrpg"; then
+              echo "⏭️  Skipping newsletter for TTRPG post: $file"
+              continue
+            fi
+
             TITLE=$(grep -m 1 '^title:' "$file" | sed 's/^title: *//; s/^"//; s/"$//')
             DATE=$(grep -m 1 '^date:' "$file" | sed 's/^date: *//')
             # Try to get slug from frontmatter, fallback to filename
