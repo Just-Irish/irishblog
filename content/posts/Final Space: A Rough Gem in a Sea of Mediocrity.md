@@ -5,7 +5,7 @@ lastmod: 2025-12-09
 slug: "final-space-a-rough-gem-in-a-sea-of-mediocrity"
 draft: false
 featured: false
-tags: ["review", "good-review", "tv", "show", "cartoon", "final-space", "all-posts"]
+tags: ["review", "good-review", "tv", "show", "cartoon", "final-space"]
 topics: ["final-space"]
 author: "Sean R."
 # description: "A quick and dirty rundown of The Forever Winter after its intial release into early access; not eloquent nor professional in the slightest."

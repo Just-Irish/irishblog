@@ -5,7 +5,7 @@ lastmod: 2025-12-09
 slug: "are-new-developers-caught-in-the-crosshairs-of-todays-gamers"
 draft: false
 featured: true
-tags: ["ramblings", "gaming", "video-games", "deep-thoughts", "all-posts"]
+tags: ["ramblings", "developers", "video-games", "deep-thoughts", "all-posts"]
 topics: ["deep-thoughts"]
 author: "Sean R."
 # description: "A quick and dirty rundown of The Forever Winter after its intial release into early access; not eloquent nor professional in the slightest."
