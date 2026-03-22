@@ -2,32 +2,25 @@
 
 <script>
   var remark_config = {
-  host: 'https://comments.insignificantgamer.blog',
-  site_id: 'insignificantgamer',
-  components: ['embed'],
-  locale: 'en',
-  no_footer: true,
-  max_shown_comments: 10,
-};
+    host: 'https://comments.insignificantgamer.blog',
+    site_id: 'insignificantgamer',
+    components: ['embed'],
+    locale: 'en',
+    no_footer: true,
+    max_shown_comments: 10,
+  };
 
-// Auto-set theme based on site (or visitor preference if no site class)
-const updateTheme = () => {
-  const isDark = document.documentElement.classList.contains('dark') || 
-                 window.matchMedia('(prefers-color-scheme: dark)').matches;
-  remark_config.theme = isDark ? 'dark' : 'light';
-};
-updateTheme();
+  // Function to set theme
+  function setRemarkTheme() {
+    const isDark = document.documentElement.classList.contains('dark') ||
+                   window.matchMedia('(prefers-color-scheme: dark)').matches;
+    remark_config.theme = isDark ? 'dark' : 'light';
+  }
 
-// Optional: listen for site theme changes if your theme toggles dynamically
-window.addEventListener('themechange', updateTheme); // if your theme fires this event
-</script>
-<script>
-  (function(c) {
-    for(var i = 0; i < c.length; i++){
-      var d = document, s = d.createElement('script');
-      s.src = remark_config.host + '/web/' +c[i] + '.js';
-      s.defer = true;
-      (d.head || d.body).appendChild(s);
-    }
-  })(remark_config.components || ['embed']);
+  // Run immediately
+  setRemarkTheme();
+
+  // Optional: re-run if your theme toggle fires a custom event
+  // (check your theme's JS — rusty-typewriter might not have 'themechange')
+  // window.addEventListener('themechange', setRemarkTheme);
 </script>
