@@ -12,6 +12,9 @@
   </div>
   <section class="page-section">
     {{- .Content -}}
+     <p style="text-align: center; font-size: 0.9em; margin-top: 2em;">
+       Liked this? Get new posts via <a href="{{ .Site.BaseURL }}index.xml">RSS</a> — no tracking, no ads.
+     </p>
   {{/* Add comments section */}}
   <div class="comments-section" style="margin-top: 60px;">
     {{- partial "comments.html" . -}}
