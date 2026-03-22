@@ -1,16 +1,23 @@
-<script src="https://giscus.app/client.js"
-        data-repo="Just-Irish/irishblog"
-        data-repo-id="R_kgDOQaqNxA"
-        data-category="Announcements"
-        data-category-id="DIC_kwDOQaqNxM4CyII0"
-        data-mapping="pathname"
-        data-strict="0"
-        data-reactions-enabled="1"
-        data-emit-metadata="0"
-        data-input-position="top"
-        data-theme="preferred_color_scheme"
-        data-lang="en"
-        data-loading="lazy"
-        crossorigin="anonymous"
-        async>
+<div id="remark42"></div>
+
+<script>
+  var remark_config = {
+    host: 'https://comments.insignificantgamer.blog',
+    site_id: 'insignificantgamer',
+    components: ['embed'],
+    theme: 'dark',          // 'light' if you prefer
+    locale: 'en',
+    no_footer: true,        // hides extra branding
+    max_shown_comments: 10, // optional, limit visible comments
+  };
+</script>
+<script>
+  (function(c) {
+    for(var i = 0; i < c.length; i++){
+      var d = document, s = d.createElement('script');
+      s.src = remark_config.host + '/web/' +c[i] + '.js';
+      s.defer = true;
+      (d.head || d.body).appendChild(s);
+    }
+  })(remark_config.components || ['embed']);
 </script>
