@@ -243,28 +243,25 @@
   <div class="comments-section" style="margin-top: 60px;"><div id="remark42"></div>
 
 <script>
-  var remark_config = {
+var remark_config = {
     host: 'https://comments.insignificantgamer.blog',
     site_id: 'insignificantgamer',
     components: ['embed'],
+    theme: 'dark',                    
     locale: 'en',
     no_footer: true,
     max_shown_comments: 10,
   };
-
-  
-  function setRemarkTheme() {
-    const isDark = document.documentElement.classList.contains('dark') ||
-                   window.matchMedia('(prefers-color-scheme: dark)').matches;
-    remark_config.theme = isDark ? 'dark' : 'light';
-  }
-
-  
-  setRemarkTheme();
-
-  
-  
-  
+</script>
+<script>
+  (function(c) {
+    for(var i = 0; i < c.length; i++){
+      var d = document, s = d.createElement('script');
+      s.src = remark_config.host + '/web/' +c[i] + '.js';
+      s.defer = true;
+      (d.head || d.body).appendChild(s);
+    }
+  })(remark_config.components || ['embed']);
 </script>
 </div>
   </section></main>
